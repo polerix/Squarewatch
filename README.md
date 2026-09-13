@@ -1,14 +1,14 @@
-# Horror & Holiday Movie Hub
+# Squarewatch
 
 A standalone static movie marathon app with automatic seasonal themes and a 5×5 trope Bingo card.
 
-- **Live site:** https://polerix.github.io/halloween/
-- **Repository:** https://github.com/polerix/halloween
+- **Live site:** https://polerix.github.io/Squarewatch/
+- **Repository:** https://github.com/polerix/Squarewatch
 
 ## Files
 
 ```text
-halloween/
+Squarewatch/
 ├── index.html  # Complete UI, calendar theme logic, and Bingo engine
 └── README.md   # Usage and deployment instructions
 ```
@@ -35,4 +35,4 @@ git commit -m "Update movie marathon hub"
 git push origin main
 ```
 
-GitHub Pages publishes the root `index.html` to https://polerix.github.io/halloween/. Deployment can take a few minutes; check the repository's Actions tab for progress.
+GitHub Pages publishes the root `index.html` to https://polerix.github.io/Squarewatch/. Deployment can take a few minutes; check the repository's Actions tab for progress.
