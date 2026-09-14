@@ -43,6 +43,19 @@ def movie_node(page, movie):
 
 def extract_offers(page, movie):
     n = movie_node(page, movie)
+    if movie['source'] == 'cbc':
+        match = re.search(r'<script[^>]*id=[\'"]__NEXT_DATA__[\'"][^>]*>(.*?)</script>', page, re.S)
+        if not match: raise ValueError('CBC programme metadata missing')
+        data = json.loads(match.group(1))['props']['pageProps']['data']
+        header = data.get('header', {})
+        access = data.get('htmlMeta', {}).get('apple-media-service-subscription-v2', {}).get('type', {})
+        cta = header.get('cta', {})
+        if (data.get('contentType') != 'Standalone' or normalize(header.get('title','')) != normalize(movie['title'])
+            or access.get('availabilityType') != 'Free'
+            or not (cta.get('mainCTAtype') == 'signin' or cta.get('canPlay') is True)
+            or not n.get('duration', '').startswith('PT1H')):
+            raise ValueError('CBC free full-film listing could not be confirmed')
+        return [{'provider':'CBC Gem', 'type':'Free · account required', 'url':movie['url']}], None
     if movie['source'] == 'nfb':
         embed = n.get('embedUrl', '')
         if not embed.startswith(movie['url'] + 'embed/player/'):

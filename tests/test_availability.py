@@ -33,6 +33,14 @@ class AvailabilityTests(unittest.TestCase):
     def test_success_removes_failure_flag(self):
         result,ok=r.refresh_record(self.movie,{'error':'old failure'},'2026-09-14T00:00:00Z',lambda _: self.page(count=0))
         self.assertTrue(ok);self.assertNotIn('error',result)
+    def test_cbc_free_account_listing_and_trailer_only_rejection(self):
+        movie={'title':'Blood Quantum','year':2019,'source':'cbc','url':'https://gem.cbc.ca/blood-quantum'}
+        metadata={'@type':'Movie','name':'Blood Quantum','duration':'PT1H38M'}
+        data={'contentType':'Standalone','header':{'title':'Blood Quantum','cta':{'mainCTAtype':'signin'}},'htmlMeta':{'apple-media-service-subscription-v2':{'type':{'availabilityType':'Free'}}}}
+        def page():return '<script type="application/ld+json">'+json.dumps(metadata)+'</script><script id="__NEXT_DATA__" type="application/json">'+json.dumps({'props':{'pageProps':{'data':data}}})+'</script>'
+        offers,_=r.extract_offers(page(),movie);self.assertEqual(offers[0]['provider'],'CBC Gem');self.assertEqual(offers[0]['type'],'Free · account required')
+        data['header']['cta']={'mainCTAtype':'trailer'}
+        with self.assertRaises(ValueError):r.extract_offers(page(),movie)
     def test_nfb_is_a_player_page_check_not_a_free_offer_claim(self):
         m={'title':'Acadian Film','source':'nfb','url':'https://www.nfb.ca/film/example/'}
         data={'@type':['Movie','VideoObject'],'name':m['title'],'embedUrl':m['url']+'embed/player/'}

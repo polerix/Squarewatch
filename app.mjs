@@ -42,7 +42,7 @@ function movieCard(id,index) {
  const record=availability.movies?.[id];const status=availabilityState(record);
  const c=node('article',undefined,'movie-card');
  const top=node('div',undefined,'movie-topline');top.append(node('span',String(index+1).padStart(2,'0'),'movie-number'),node('span',m.label));
- c.append(top,node('h3',m.title),node('div',String(m.year),'movie-year'),node('p',m.description,'movie-description'));
+ c.append(top,node('h3',m.title),node('div',[m.year,m.genre,m.runtime].filter(Boolean).join(' · '),'movie-year'),node('p',m.description,'movie-description'));
  const section=node('div',undefined,'offer-section');
  section.append(node('span',status==='stale'?'LAST KNOWN CANADIAN OPTIONS':'WHERE TO WATCH · CANADA','offer-label'));
  const offers=record?.offers||[];
@@ -53,13 +53,13 @@ function movieCard(id,index) {
  let label=record?.checkedAt?`Checked ${fmt(record.checkedAt.slice(0,10))}`:'Not yet verified';
  if(status==='stale')label+=' · Recheck needed';
  if(m.source==='nfb')label+=' · NFB player page; confirm playback on NFB';
- section.append(node('p',label,`check-date ${status==='stale'?'stale':''}`),external(m.source==='nfb'?'Open NFB film page ↗':'View current options on JustWatch ↗',m.url,'source-link'));
+ section.append(node('p',label,`check-date ${status==='stale'?'stale':''}`),external(m.source==='nfb'?'Open NFB film page ↗':m.source==='cbc'?'Watch on CBC Gem ↗':'View current options on JustWatch ↗',m.url,'source-link'));
  c.append(section);return c;
 }
 function renderMovies() {
  $('lineup-date').textContent=fmt(day());
  $('lineup-title').textContent=active.quiet?'Stories to make time for':'A seasonal triple feature';
- $('lineup-intro').textContent=`Three daily picks for ${active.short||active.name}. Explore all ${active.pool.length} films below.`;
+ $('lineup-intro').textContent=active.featured?`Blood Quantum leads the programme; two more films rotate daily. Explore all ${active.pool.length} films below.`:`Three daily picks for ${active.short||active.name}. Explore all ${active.pool.length} films below.`;
  $('movie-grid').replaceChildren(...dailyPicks(active,day()).map(movieCard));
  $('collection-grid').replaceChildren(...active.pool.map(movieCard));
  $('collection-count').textContent=`(${active.pool.length} films)`;

@@ -446,5 +446,16 @@
     "url": "https://www.nfb.ca/film/edith_butler_daughter_of_the_wind/",
     "label": "Acadian music",
     "description": "An Acadian musical voice, on stage and in conversation."
+  },
+  {
+    "id": "bloodquantum",
+    "title": "Blood Quantum",
+    "year": 2019,
+    "genre": "Horror / Action",
+    "runtime": "1h 38m · CBC Gem edition",
+    "source": "cbc",
+    "url": "https://gem.cbc.ca/blood-quantum",
+    "label": "Featured · Indigenous horror",
+    "description": "Mi’gmaq filmmaker Jeff Barnaby delivers a fierce zombie horror film: a community immune to the outbreak must decide who to let in."
   }
 ]

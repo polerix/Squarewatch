@@ -64,5 +64,11 @@ test('stale, failed, empty, missing, and fresh availability stay distinct',()=>{
 test('all entrypoint assets exist; data and source URLs remain Canadian',()=>{
  const root=new URL('../',import.meta.url),html=fs.readFileSync(new URL('index.html',root),'utf8');
  for(const [,path] of html.matchAll(/(?:src|href)="([^"#]+)"/g)){if(!/^(https?:|\.\/$)/.test(path))assert.ok(fs.existsSync(new URL(path,root)),path);}
- for(const m of movies){assert.ok(m.url.startsWith('https://www.justwatch.com/ca/movie/')||m.url.startsWith('https://www.nfb.ca/film/'));}
+ for(const m of movies){assert.ok(m.url.startsWith('https://www.justwatch.com/ca/movie/')||m.url.startsWith('https://www.nfb.ca/film/')||m.url.startsWith('https://gem.cbc.ca/'));}
+});
+
+test('Blood Quantum stays first for Truth and Reconciliation while the other slots rotate',()=>{
+ const season=SEASONS.find(s=>s.id==='truth');assert.equal(season.pool[0],'bloodquantum');
+ const seen=new Set();for(let n=1;n<=30;n++){const picks=dailyPicks(season,`2026-09-${String(n).padStart(2,'0')}`);assert.equal(picks[0],'bloodquantum');assert.equal(new Set(picks).size,3);picks.slice(1).forEach(id=>seen.add(id));}
+ assert.equal(seen.size,4);
 });

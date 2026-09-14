@@ -2124,7 +2124,20 @@
           "url": "https://www.nfb.ca/film/edith_butler_daughter_of_the_wind/"
         }
       ]
+    },
+    "bloodquantum": {
+      "checkedAt": "2026-09-14T12:56:42.216109Z",
+      "sourceUpdatedAt": null,
+      "source": "cbc",
+      "url": "https://gem.cbc.ca/blood-quantum",
+      "offers": [
+        {
+          "provider": "CBC Gem",
+          "type": "Free · account required",
+          "url": "https://gem.cbc.ca/blood-quantum"
+        }
+      ]
     }
   },
-  "lastRunAt": "2026-09-14T12:49:08.389459Z"
+  "lastRunAt": "2026-09-14T12:56:42.216109Z"
 }
