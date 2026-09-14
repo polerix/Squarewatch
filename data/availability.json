@@ -1,0 +1,2120 @@
+{
+  "country": "CA",
+  "movies": {
+    "psycho": {
+      "checkedAt": "2026-09-14T12:44:43.225334Z",
+      "sourceUpdatedAt": "2026-09-14T04:31:03.82848Z",
+      "source": "justwatch",
+      "url": "https://www.justwatch.com/ca/movie/psycho-1960",
+      "offers": [
+        {
+          "provider": "Crave",
+          "type": "Subscription",
+          "url": "https://www.crave.ca/en/movie/psycho-38834"
+        },
+        {
+          "provider": "Crave Amazon Channel",
+          "type": "Subscription",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e8a724b3-4942-43e6-b228-75a0235f6722"
+        },
+        {
+          "provider": "Amazon Video",
+          "type": "Rent",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.76a9f7b3-cdc0-bdd0-6a22-e27e4197ddfd"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Rent",
+          "url": "https://tv.apple.com/ca/movie/psycho/umc.cmc.4v3c9578iqv2wvizz23izdkx3?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A284289301"
+        },
+        {
+          "provider": "CosmoGo",
+          "type": "Rent",
+          "url": "https://www.cosmogo.com/#!/hero/cp123833"
+        },
+        {
+          "provider": "Amazon Video",
+          "type": "Buy",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.76a9f7b3-cdc0-bdd0-6a22-e27e4197ddfd"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Buy",
+          "url": "https://tv.apple.com/ca/movie/psycho/umc.cmc.4v3c9578iqv2wvizz23izdkx3?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A284289301"
+        },
+        {
+          "provider": "CosmoGo",
+          "type": "Buy",
+          "url": "https://www.cosmogo.com/#!/hero/cp123833"
+        }
+      ]
+    },
+    "troll": {
+      "checkedAt": "2026-09-14T12:44:43.225334Z",
+      "sourceUpdatedAt": "2026-09-14T06:52:41.045832Z",
+      "source": "justwatch",
+      "url": "https://www.justwatch.com/ca/movie/troll-2",
+      "offers": [
+        {
+          "provider": "Amazon Prime Video",
+          "type": "Subscription",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1e1154cb-8e84-46f9-bfef-bc84c0a0cc54"
+        },
+        {
+          "provider": "Amazon Prime Video with Ads",
+          "type": "Subscription",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1e1154cb-8e84-46f9-bfef-bc84c0a0cc54"
+        },
+        {
+          "provider": "Tubi TV",
+          "type": "Stream",
+          "url": "https://tubitv.com/movies/302737"
+        },
+        {
+          "provider": "Amazon Video",
+          "type": "Rent",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1e1154cb-8e84-46f9-bfef-bc84c0a0cc54"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Rent",
+          "url": "https://tv.apple.com/ca/movie/troll-2/umc.cmc.2eka2g8pcsxm0iztse828j2ym?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A280190406"
+        },
+        {
+          "provider": "Amazon Video",
+          "type": "Buy",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1e1154cb-8e84-46f9-bfef-bc84c0a0cc54"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Buy",
+          "url": "https://tv.apple.com/ca/movie/troll-2/umc.cmc.2eka2g8pcsxm0iztse828j2ym?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A280190406"
+        }
+      ]
+    },
+    "things": {
+      "checkedAt": "2026-09-14T12:44:43.225334Z",
+      "sourceUpdatedAt": "2026-09-13T04:07:47.828379Z",
+      "source": "justwatch",
+      "url": "https://www.justwatch.com/ca/movie/things",
+      "offers": [
+        {
+          "provider": "AMC+ Amazon Channel",
+          "type": "Subscription",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c4b7af4a-66ec-1e58-b266-cdbd0e847a11"
+        },
+        {
+          "provider": "Bloodstream",
+          "type": "Subscription",
+          "url": "https://bloodstreamtv.com/show-details/things?ref=3e6431d943b4fe3d79663d12167bcf4a&af_id=89"
+        },
+        {
+          "provider": "FlixFling",
+          "type": "Subscription",
+          "url": "https://www.flixfling.com/justwatch/27004"
+        },
+        {
+          "provider": "Shudder Amazon Channel",
+          "type": "Subscription",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c4b7af4a-66ec-1e58-b266-cdbd0e847a11"
+        },
+        {
+          "provider": "Shudder Apple TV channel",
+          "type": "Subscription",
+          "url": "https://tv.apple.com/ca"
+        },
+        {
+          "provider": "Bloodstream",
+          "type": "Stream",
+          "url": "https://bloodstreamtv.com/show-details/things?ref=3e6431d943b4fe3d79663d12167bcf4a&af_id=89"
+        },
+        {
+          "provider": "FlixFling",
+          "type": "Rent",
+          "url": "https://www.flixfling.com/justwatch/27004"
+        },
+        {
+          "provider": "FlixFling",
+          "type": "Buy",
+          "url": "https://www.flixfling.com/justwatch/27004"
+        }
+      ]
+    },
+    "thing": {
+      "checkedAt": "2026-09-14T12:44:43.225334Z",
+      "sourceUpdatedAt": "2026-09-10T06:06:03.243671Z",
+      "source": "justwatch",
+      "url": "https://www.justwatch.com/ca/movie/the-thing-1982",
+      "offers": [
+        {
+          "provider": "Amazon Prime Video",
+          "type": "Subscription",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e2a9f72d-7882-9049-4311-e74d8360643a"
+        },
+        {
+          "provider": "Amazon Prime Video with Ads",
+          "type": "Subscription",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e2a9f72d-7882-9049-4311-e74d8360643a"
+        },
+        {
+          "provider": "Crave",
+          "type": "Subscription",
+          "url": "https://www.crave.ca/en/movie/the-thing-1982-38321"
+        },
+        {
+          "provider": "Crave Amazon Channel",
+          "type": "Subscription",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e2a9f72d-7882-9049-4311-e74d8360643a"
+        },
+        {
+          "provider": "Starz Amazon Channel",
+          "type": "Subscription",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e2a9f72d-7882-9049-4311-e74d8360643a"
+        },
+        {
+          "provider": "Amazon Video",
+          "type": "Rent",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e2a9f72d-7882-9049-4311-e74d8360643a"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Rent",
+          "url": "https://tv.apple.com/ca/movie/the-thing/umc.cmc.70lpgfopfk3gr1pg7uux69znx?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A282249286"
+        },
+        {
+          "provider": "Amazon Video",
+          "type": "Buy",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e2a9f72d-7882-9049-4311-e74d8360643a"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Buy",
+          "url": "https://tv.apple.com/ca/movie/the-thing/umc.cmc.70lpgfopfk3gr1pg7uux69znx?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A282249286"
+        }
+      ]
+    },
+    "trick": {
+      "checkedAt": "2026-09-14T12:44:43.225334Z",
+      "sourceUpdatedAt": "2026-09-14T04:32:03.524719Z",
+      "source": "justwatch",
+      "url": "https://www.justwatch.com/ca/movie/trick-r-treat",
+      "offers": [
+        {
+          "provider": "Amazon Video",
+          "type": "Rent",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b2a9f725-4775-19ea-24d0-a0d25b8121d6"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Rent",
+          "url": "https://tv.apple.com/ca/movie/trick-r-treat/umc.cmc.20uswppdtyl33e0jkfmkau2c5?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A320824979"
+        },
+        {
+          "provider": "CosmoGo",
+          "type": "Rent",
+          "url": "https://www.cosmogo.com/#!/hero/cp343452"
+        },
+        {
+          "provider": "Amazon Video",
+          "type": "Buy",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b2a9f725-4775-19ea-24d0-a0d25b8121d6"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Buy",
+          "url": "https://tv.apple.com/ca/movie/trick-r-treat/umc.cmc.20uswppdtyl33e0jkfmkau2c5?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A320824979"
+        },
+        {
+          "provider": "CosmoGo",
+          "type": "Buy",
+          "url": "https://www.cosmogo.com/#!/hero/cp343452"
+        }
+      ]
+    },
+    "halloween": {
+      "checkedAt": "2026-09-14T12:44:43.225334Z",
+      "sourceUpdatedAt": "2026-09-14T04:32:19.333568Z",
+      "source": "justwatch",
+      "url": "https://www.justwatch.com/ca/movie/halloween-1978",
+      "offers": [
+        {
+          "provider": "AMC+",
+          "type": "Subscription",
+          "url": "https://www.amcplus.com/movies/halloween-1978--1027962"
+        },
+        {
+          "provider": "AMC+ Amazon Channel",
+          "type": "Subscription",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e3e9e72b-906a-4133-af4b-223c9d617db4"
+        },
+        {
+          "provider": "Cultpix",
+          "type": "Subscription",
+          "url": "https://www.cultpix.com/movie/halloween/1185"
+        },
+        {
+          "provider": "Shudder",
+          "type": "Subscription",
+          "url": "https://www.shudder.com/movies/watch/halloween/ab2df38d42653606"
+        },
+        {
+          "provider": "Shudder Amazon Channel",
+          "type": "Subscription",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e3e9e72b-906a-4133-af4b-223c9d617db4"
+        },
+        {
+          "provider": "Shudder Apple TV channel",
+          "type": "Subscription",
+          "url": "https://tv.apple.com/ca"
+        },
+        {
+          "provider": "CosmoGo",
+          "type": "Rent",
+          "url": "https://www.cosmogo.com/#!/hero/cp820183"
+        },
+        {
+          "provider": "CosmoGo",
+          "type": "Buy",
+          "url": "https://www.cosmogo.com/#!/hero/cp820183"
+        }
+      ]
+    },
+    "elf": {
+      "checkedAt": "2026-09-14T12:44:43.225334Z",
+      "sourceUpdatedAt": "2026-09-14T04:31:53.001642Z",
+      "source": "justwatch",
+      "url": "https://www.justwatch.com/ca/movie/elf",
+      "offers": [
+        {
+          "provider": "Amazon Prime Video",
+          "type": "Subscription",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.712a5b64-2b9b-4a4f-a965-ceae2917dfe4"
+        },
+        {
+          "provider": "Amazon Prime Video with Ads",
+          "type": "Subscription",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.712a5b64-2b9b-4a4f-a965-ceae2917dfe4"
+        },
+        {
+          "provider": "Amazon Video",
+          "type": "Rent",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.712a5b64-2b9b-4a4f-a965-ceae2917dfe4"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Rent",
+          "url": "https://tv.apple.com/ca/movie/elf/umc.cmc.8or4j9cdl1py7vfj4pk52lmf?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A287917512"
+        },
+        {
+          "provider": "CosmoGo",
+          "type": "Rent",
+          "url": "https://www.cosmogo.com/#!/hero/cp301311"
+        },
+        {
+          "provider": "Amazon Video",
+          "type": "Buy",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.712a5b64-2b9b-4a4f-a965-ceae2917dfe4"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Buy",
+          "url": "https://tv.apple.com/ca/movie/elf/umc.cmc.8or4j9cdl1py7vfj4pk52lmf?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A287917512"
+        },
+        {
+          "provider": "CosmoGo",
+          "type": "Buy",
+          "url": "https://www.cosmogo.com/#!/hero/cp301311"
+        }
+      ]
+    },
+    "homealone": {
+      "checkedAt": "2026-09-14T12:44:43.225334Z",
+      "sourceUpdatedAt": "2026-09-13T04:00:37.567121Z",
+      "source": "justwatch",
+      "url": "https://www.justwatch.com/ca/movie/home-alone",
+      "offers": [
+        {
+          "provider": "Disney Plus",
+          "type": "Subscription",
+          "url": "https://www.disneyplus.com/browse/entity-45e4a68f-d9df-45f7-8e81-01b4ca5524e9"
+        },
+        {
+          "provider": "Amazon Video",
+          "type": "Rent",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.00a9f78f-9bb3-697b-88f6-5dfdd2dd5228"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Rent",
+          "url": "https://tv.apple.com/ca/movie/home-alone/umc.cmc.43qg0hbj3zyyum9us4nzbz9x5?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A344796733"
+        },
+        {
+          "provider": "CosmoGo",
+          "type": "Rent",
+          "url": "https://www.cosmogo.com/#!/hero/cp801221"
+        },
+        {
+          "provider": "Amazon Video",
+          "type": "Buy",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.00a9f78f-9bb3-697b-88f6-5dfdd2dd5228"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Buy",
+          "url": "https://tv.apple.com/ca/movie/home-alone/umc.cmc.43qg0hbj3zyyum9us4nzbz9x5?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A344796733"
+        },
+        {
+          "provider": "CosmoGo",
+          "type": "Buy",
+          "url": "https://www.cosmogo.com/#!/hero/cp801221"
+        }
+      ]
+    },
+    "blackchristmas": {
+      "checkedAt": "2026-09-14T12:44:43.225334Z",
+      "sourceUpdatedAt": "2026-09-14T08:18:24.047414Z",
+      "source": "justwatch",
+      "url": "https://www.justwatch.com/ca/movie/black-christmas",
+      "offers": [
+        {
+          "provider": "AMC+ Amazon Channel",
+          "type": "Subscription",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7eb8aab6-f401-6e4d-996c-6090344d529c"
+        },
+        {
+          "provider": "Fandor",
+          "type": "Subscription",
+          "url": "https://www.fandor.com/details-movie/60f1bea34977f80c8a9b98fc/black-christmas"
+        },
+        {
+          "provider": "Midnight Pulp",
+          "type": "Subscription",
+          "url": "https://www.midnightpulp.com/details/63b67ee55559a82dfa81c7da/black-christmas"
+        },
+        {
+          "provider": "Shudder",
+          "type": "Subscription",
+          "url": "https://www.shudder.com/movies/watch/black-christmas/19bada6f82872bbb"
+        },
+        {
+          "provider": "Shudder Amazon Channel",
+          "type": "Subscription",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7eb8aab6-f401-6e4d-996c-6090344d529c"
+        },
+        {
+          "provider": "Shudder Apple TV channel",
+          "type": "Subscription",
+          "url": "https://tv.apple.com/ca"
+        },
+        {
+          "provider": "Plex Live TV",
+          "type": "Stream",
+          "url": "https://watch.plex.tv/live-tv/channel/scream-factory-tv?autoplay=1&utm_content=6351991cccee3e1547a8831e&utm_medium=deeplink&utm_source=justWatch-linear-catalog"
+        },
+        {
+          "provider": "Tubi TV",
+          "type": "Stream",
+          "url": "https://tubitv.com/movies/469540"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Rent",
+          "url": "https://tv.apple.com/ca/movie/black-christmas/umc.cmc.55ak9coybncz1ccq1smrnmqap?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A1514039879"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Buy",
+          "url": "https://tv.apple.com/ca/movie/black-christmas/umc.cmc.55ak9coybncz1ccq1smrnmqap?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A1514039879"
+        }
+      ]
+    },
+    "wonderful": {
+      "checkedAt": "2026-09-14T12:44:43.225334Z",
+      "sourceUpdatedAt": "2026-09-14T08:21:33.380014Z",
+      "source": "justwatch",
+      "url": "https://www.justwatch.com/ca/movie/its-a-wonderful-life",
+      "offers": [
+        {
+          "provider": "Paramount Plus",
+          "type": "Subscription",
+          "url": "https://www.cbs.com/movies/its-a-wonderful-life/B_dtiF92YHGTfVn59LdqRpWQ9FVSPD5u?searchReferral=&utm_source=publisher"
+        },
+        {
+          "provider": "Paramount Plus Basic with Ads",
+          "type": "Subscription",
+          "url": "https://www.cbs.com/movies/its-a-wonderful-life/B_dtiF92YHGTfVn59LdqRpWQ9FVSPD5u?searchReferral=&utm_source=publisher"
+        },
+        {
+          "provider": "Paramount Plus Premium",
+          "type": "Subscription",
+          "url": "https://www.cbs.com/movies/its-a-wonderful-life/B_dtiF92YHGTfVn59LdqRpWQ9FVSPD5u?searchReferral=&utm_source=publisher"
+        },
+        {
+          "provider": "Paramount+ Amazon Channel",
+          "type": "Subscription",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2c5339eb-750a-49fa-9463-013ef8b951d5"
+        },
+        {
+          "provider": "Hoopla",
+          "type": "Library access",
+          "url": "https://www.hoopladigital.com/title/15280997"
+        },
+        {
+          "provider": "Amazon Video",
+          "type": "Rent",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ffc72be1-ef0c-417e-9705-79b1a4d4f841"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Rent",
+          "url": "https://tv.apple.com/ca/movie/its-a-wonderful-life/umc.cmc.uxp25jw31biuga9xrrskxqrr?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A297250466"
+        },
+        {
+          "provider": "CosmoGo",
+          "type": "Rent",
+          "url": "https://www.cosmogo.com/#!/hero/cp122538"
+        },
+        {
+          "provider": "Amazon Video",
+          "type": "Buy",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ffc72be1-ef0c-417e-9705-79b1a4d4f841"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Buy",
+          "url": "https://tv.apple.com/ca/movie/its-a-wonderful-life/umc.cmc.uxp25jw31biuga9xrrskxqrr?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A297250466"
+        },
+        {
+          "provider": "CosmoGo",
+          "type": "Buy",
+          "url": "https://www.cosmogo.com/#!/hero/cp122538"
+        }
+      ]
+    },
+    "muppets": {
+      "checkedAt": "2026-09-14T12:44:43.225334Z",
+      "sourceUpdatedAt": "2026-09-14T09:23:53.185164Z",
+      "source": "justwatch",
+      "url": "https://www.justwatch.com/ca/movie/the-muppet-christmas-carol",
+      "offers": [
+        {
+          "provider": "Disney Plus",
+          "type": "Subscription",
+          "url": "https://www.disneyplus.com/browse/entity-d005716a-a1c6-4126-b5a0-df5fcd37f186"
+        },
+        {
+          "provider": "Amazon Video",
+          "type": "Rent",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.deb776d5-7b7d-5c5d-b039-05f8752a6da8"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Rent",
+          "url": "https://tv.apple.com/ca/movie/the-muppet-christmas-carol/umc.cmc.43x9c8qf5dw65k5w4sszfi44u?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A206329718"
+        },
+        {
+          "provider": "CosmoGo",
+          "type": "Rent",
+          "url": "https://www.cosmogo.com/#!/hero/cp800950"
+        },
+        {
+          "provider": "Amazon Video",
+          "type": "Buy",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.deb776d5-7b7d-5c5d-b039-05f8752a6da8"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Buy",
+          "url": "https://tv.apple.com/ca/movie/the-muppet-christmas-carol/umc.cmc.43x9c8qf5dw65k5w4sszfi44u?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A206329718"
+        },
+        {
+          "provider": "CosmoGo",
+          "type": "Buy",
+          "url": "https://www.cosmogo.com/#!/hero/cp800950"
+        }
+      ]
+    },
+    "harry": {
+      "checkedAt": "2026-09-14T12:44:43.225334Z",
+      "sourceUpdatedAt": "2026-09-14T04:31:51.521752Z",
+      "source": "justwatch",
+      "url": "https://www.justwatch.com/ca/movie/when-harry-met-sally",
+      "offers": [
+        {
+          "provider": "Amazon Video",
+          "type": "Buy",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.606ee96e-ef6a-414a-9800-3ea5aa66982d"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Buy",
+          "url": "https://tv.apple.com/ca/movie/when-harry-met-sally/umc.cmc.3n0qubhb7c64zuw893z0vfdov?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A298048384"
+        },
+        {
+          "provider": "CosmoGo",
+          "type": "Buy",
+          "url": "https://www.cosmogo.com/#!/hero/cp250457"
+        }
+      ]
+    },
+    "apartment": {
+      "checkedAt": "2026-09-14T12:44:43.225334Z",
+      "sourceUpdatedAt": "2026-09-14T06:53:10.543903Z",
+      "source": "justwatch",
+      "url": "https://www.justwatch.com/ca/movie/the-apartment",
+      "offers": [
+        {
+          "provider": "MGM Amazon Channel",
+          "type": "Subscription",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cb7d6bb5-084a-4190-a392-a9b38e521eb3"
+        },
+        {
+          "provider": "Tubi TV",
+          "type": "Stream",
+          "url": "https://tubitv.com/movies/312409"
+        },
+        {
+          "provider": "Amazon Video",
+          "type": "Rent",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cb7d6bb5-084a-4190-a392-a9b38e521eb3"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Rent",
+          "url": "https://tv.apple.com/ca/movie/the-apartment/umc.cmc.1720r16d0p7cvx2aciwwxotnj?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A303904676"
+        },
+        {
+          "provider": "CosmoGo",
+          "type": "Rent",
+          "url": "https://www.cosmogo.com/#!/hero/cp250387"
+        },
+        {
+          "provider": "Amazon Video",
+          "type": "Buy",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cb7d6bb5-084a-4190-a392-a9b38e521eb3"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Buy",
+          "url": "https://tv.apple.com/ca/movie/the-apartment/umc.cmc.1720r16d0p7cvx2aciwwxotnj?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A303904676"
+        },
+        {
+          "provider": "CosmoGo",
+          "type": "Buy",
+          "url": "https://www.cosmogo.com/#!/hero/cp250387"
+        }
+      ]
+    },
+    "trading": {
+      "checkedAt": "2026-09-14T12:44:43.225334Z",
+      "sourceUpdatedAt": "2026-09-14T10:37:21.73449Z",
+      "source": "justwatch",
+      "url": "https://www.justwatch.com/ca/movie/trading-places",
+      "offers": [
+        {
+          "provider": "Netflix",
+          "type": "Subscription",
+          "url": "https://www.netflix.com/title/60011484"
+        },
+        {
+          "provider": "Netflix Standard with Ads",
+          "type": "Subscription",
+          "url": "https://www.netflix.com/title/60011484"
+        },
+        {
+          "provider": "Super Channel Amazon Channel",
+          "type": "Subscription",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6058f94c-5e3c-401d-bfd3-19fdb887f03e"
+        },
+        {
+          "provider": "Super Channel Plus",
+          "type": "Subscription",
+          "url": "https://www.superchannelplus.ca/browse"
+        },
+        {
+          "provider": "fuboTV",
+          "type": "Subscription",
+          "url": "https://www.fubo.tv/welcome/program/MV002856840000?irmp=1206980&irad=599309"
+        },
+        {
+          "provider": "Amazon Video",
+          "type": "Rent",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6058f94c-5e3c-401d-bfd3-19fdb887f03e"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Rent",
+          "url": "https://tv.apple.com/ca/movie/trading-places/umc.cmc.298m4977kall3tddgiukhy2xm?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A268384321"
+        },
+        {
+          "provider": "CosmoGo",
+          "type": "Rent",
+          "url": "https://www.cosmogo.com/#!/hero/cp124448"
+        },
+        {
+          "provider": "Amazon Video",
+          "type": "Buy",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6058f94c-5e3c-401d-bfd3-19fdb887f03e"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Buy",
+          "url": "https://tv.apple.com/ca/movie/trading-places/umc.cmc.298m4977kall3tddgiukhy2xm?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A268384321"
+        },
+        {
+          "provider": "CosmoGo",
+          "type": "Buy",
+          "url": "https://www.cosmogo.com/#!/hero/cp124448"
+        }
+      ]
+    },
+    "nye": {
+      "checkedAt": "2026-09-14T12:44:43.225334Z",
+      "sourceUpdatedAt": "2026-09-14T04:30:59.219113Z",
+      "source": "justwatch",
+      "url": "https://www.justwatch.com/ca/movie/new-years-eve",
+      "offers": [
+        {
+          "provider": "Crave",
+          "type": "Subscription",
+          "url": "https://www.crave.ca/en/movie/new-years-eve-43472"
+        },
+        {
+          "provider": "Crave Amazon Channel",
+          "type": "Subscription",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.df34c835-ee1e-4660-b439-d9eac617cda1"
+        },
+        {
+          "provider": "Starz Amazon Channel",
+          "type": "Subscription",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.df34c835-ee1e-4660-b439-d9eac617cda1"
+        },
+        {
+          "provider": "Amazon Video",
+          "type": "Rent",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.df34c835-ee1e-4660-b439-d9eac617cda1"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Rent",
+          "url": "https://tv.apple.com/ca/movie/new-years-eve/umc.cmc.z5e80qb4xntlh0saj80nfgu1?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A526275978"
+        },
+        {
+          "provider": "CosmoGo",
+          "type": "Rent",
+          "url": "https://www.cosmogo.com/#!/hero/cp122978"
+        },
+        {
+          "provider": "Amazon Video",
+          "type": "Buy",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.df34c835-ee1e-4660-b439-d9eac617cda1"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Buy",
+          "url": "https://tv.apple.com/ca/movie/new-years-eve/umc.cmc.z5e80qb4xntlh0saj80nfgu1?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A526275978"
+        },
+        {
+          "provider": "CosmoGo",
+          "type": "Buy",
+          "url": "https://www.cosmogo.com/#!/hero/cp122978"
+        }
+      ]
+    },
+    "paddington": {
+      "checkedAt": "2026-09-14T12:44:43.225334Z",
+      "sourceUpdatedAt": "2026-09-14T04:32:04.007507Z",
+      "source": "justwatch",
+      "url": "https://www.justwatch.com/ca/movie/paddington-2",
+      "offers": [
+        {
+          "provider": "Crave",
+          "type": "Subscription",
+          "url": "https://www.crave.ca/en/movie/paddington-2-44097"
+        },
+        {
+          "provider": "Crave Amazon Channel",
+          "type": "Subscription",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4c691b6e-f209-46d5-b5b1-c9801a4c3905"
+        },
+        {
+          "provider": "Starz Amazon Channel",
+          "type": "Subscription",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4c691b6e-f209-46d5-b5b1-c9801a4c3905"
+        },
+        {
+          "provider": "Amazon Video",
+          "type": "Rent",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4c691b6e-f209-46d5-b5b1-c9801a4c3905"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Rent",
+          "url": "https://tv.apple.com/ca/movie/paddington-2/umc.cmc.6uanyirozllokd56zsopx7no1?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A1330715390"
+        },
+        {
+          "provider": "CosmoGo",
+          "type": "Rent",
+          "url": "https://www.cosmogo.com/#!/hero/cp346166"
+        },
+        {
+          "provider": "Amazon Video",
+          "type": "Buy",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4c691b6e-f209-46d5-b5b1-c9801a4c3905"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Buy",
+          "url": "https://tv.apple.com/ca/movie/paddington-2/umc.cmc.6uanyirozllokd56zsopx7no1?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A1330715390"
+        },
+        {
+          "provider": "CosmoGo",
+          "type": "Buy",
+          "url": "https://www.cosmogo.com/#!/hero/cp346166"
+        }
+      ]
+    },
+    "fox": {
+      "checkedAt": "2026-09-14T12:44:43.225334Z",
+      "sourceUpdatedAt": "2026-09-12T02:28:17.84201Z",
+      "source": "justwatch",
+      "url": "https://www.justwatch.com/ca/movie/fantastic-mr-fox",
+      "offers": [
+        {
+          "provider": "Crave",
+          "type": "Subscription",
+          "url": "https://www.crave.ca/en/movie/fantastic-mr-fox-54579"
+        },
+        {
+          "provider": "Crave Amazon Channel",
+          "type": "Subscription",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7ea9f740-7904-95f6-0a30-770a752ee427"
+        },
+        {
+          "provider": "Disney Plus",
+          "type": "Subscription",
+          "url": "https://www.disneyplus.com/browse/entity-02170710-4dc7-4d5a-967d-9b5bae73a25b"
+        },
+        {
+          "provider": "Starz Amazon Channel",
+          "type": "Subscription",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7ea9f740-7904-95f6-0a30-770a752ee427"
+        },
+        {
+          "provider": "Amazon Video",
+          "type": "Rent",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7ea9f740-7904-95f6-0a30-770a752ee427"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Rent",
+          "url": "https://tv.apple.com/ca/movie/fantastic-mr-fox/umc.cmc.rjm5r8m9xnog8o1rzzl2mxc3?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A336288777"
+        },
+        {
+          "provider": "CosmoGo",
+          "type": "Rent",
+          "url": "https://www.cosmogo.com/#!/hero/cp121964"
+        },
+        {
+          "provider": "Amazon Video",
+          "type": "Buy",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7ea9f740-7904-95f6-0a30-770a752ee427"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Buy",
+          "url": "https://tv.apple.com/ca/movie/fantastic-mr-fox/umc.cmc.rjm5r8m9xnog8o1rzzl2mxc3?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A336288777"
+        },
+        {
+          "provider": "CosmoGo",
+          "type": "Buy",
+          "url": "https://www.cosmogo.com/#!/hero/cp121964"
+        }
+      ]
+    },
+    "mitchells": {
+      "checkedAt": "2026-09-14T12:44:43.225334Z",
+      "sourceUpdatedAt": "2026-09-14T04:31:47.836539Z",
+      "source": "justwatch",
+      "url": "https://www.justwatch.com/ca/movie/connected-2020",
+      "offers": [
+        {
+          "provider": "Netflix",
+          "type": "Subscription",
+          "url": "https://www.netflix.com/title/81399614"
+        },
+        {
+          "provider": "Netflix Standard with Ads",
+          "type": "Subscription",
+          "url": "https://www.netflix.com/title/81399614"
+        },
+        {
+          "provider": "Amazon Video",
+          "type": "Rent",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2a71b204-d1fb-4f3c-9c13-748fd4ba858b"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Rent",
+          "url": "https://tv.apple.com/ca/movie/the-mitchells-vs-the-machines/umc.cmc.7e8a5ji53wrnt29s5cv2ttzoe?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A1596062735"
+        },
+        {
+          "provider": "CosmoGo",
+          "type": "Rent",
+          "url": "https://www.cosmogo.com/#!/hero/cp814380"
+        },
+        {
+          "provider": "Amazon Video",
+          "type": "Buy",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2a71b204-d1fb-4f3c-9c13-748fd4ba858b"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Buy",
+          "url": "https://tv.apple.com/ca/movie/the-mitchells-vs-the-machines/umc.cmc.7e8a5ji53wrnt29s5cv2ttzoe?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A1596062735"
+        },
+        {
+          "provider": "CosmoGo",
+          "type": "Buy",
+          "url": "https://www.cosmogo.com/#!/hero/cp814380"
+        }
+      ]
+    },
+    "hop": {
+      "checkedAt": "2026-09-14T12:44:43.225334Z",
+      "sourceUpdatedAt": "2026-09-14T09:10:14.785145Z",
+      "source": "justwatch",
+      "url": "https://www.justwatch.com/ca/movie/hop",
+      "offers": [
+        {
+          "provider": "Crave",
+          "type": "Subscription",
+          "url": "https://www.crave.ca/en/movie/hop-42859"
+        },
+        {
+          "provider": "Crave Amazon Channel",
+          "type": "Subscription",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7203f687-ffe1-4cf2-824d-ca39fc0cf790"
+        },
+        {
+          "provider": "Disney Plus",
+          "type": "Subscription",
+          "url": "https://www.disneyplus.com/browse/entity-98e4ef00-22e6-49e0-b55d-5b9234bb1e6c"
+        },
+        {
+          "provider": "Amazon Video",
+          "type": "Rent",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7203f687-ffe1-4cf2-824d-ca39fc0cf790"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Rent",
+          "url": "https://tv.apple.com/ca/movie/hop/umc.cmc.5rz6cvuq08ku0hh9gr1g6sgx9?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A443093653"
+        },
+        {
+          "provider": "FlixFling",
+          "type": "Rent",
+          "url": "https://www.flixfling.com/justwatch/24707"
+        },
+        {
+          "provider": "Amazon Video",
+          "type": "Buy",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7203f687-ffe1-4cf2-824d-ca39fc0cf790"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Buy",
+          "url": "https://tv.apple.com/ca/movie/hop/umc.cmc.5rz6cvuq08ku0hh9gr1g6sgx9?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A443093653"
+        }
+      ]
+    },
+    "rabbit": {
+      "checkedAt": "2026-09-14T12:44:43.225334Z",
+      "sourceUpdatedAt": "2026-09-14T04:32:22.994174Z",
+      "source": "justwatch",
+      "url": "https://www.justwatch.com/ca/movie/peter-rabbit",
+      "offers": [
+        {
+          "provider": "Crave",
+          "type": "Subscription",
+          "url": "https://www.crave.ca/en/movie/peter-rabbit-43399"
+        },
+        {
+          "provider": "Crave Amazon Channel",
+          "type": "Subscription",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c8e61a90-fea6-4570-8214-19d05340d095"
+        },
+        {
+          "provider": "Starz Amazon Channel",
+          "type": "Subscription",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4ab09233-aefa-6470-2ee5-d2a67965714e"
+        },
+        {
+          "provider": "Sony Pictures Core Amazon Channel",
+          "type": "Stream",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4ab09233-aefa-6470-2ee5-d2a67965714e"
+        },
+        {
+          "provider": "Amazon Video",
+          "type": "Rent",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4ab09233-aefa-6470-2ee5-d2a67965714e"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Rent",
+          "url": "https://tv.apple.com/ca/movie/peter-rabbit/umc.cmc.7ftk3kwldia83wlreycl98lia?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A1341839651"
+        },
+        {
+          "provider": "CosmoGo",
+          "type": "Rent",
+          "url": "https://www.cosmogo.com/#!/hero/cp800993"
+        },
+        {
+          "provider": "Amazon Video",
+          "type": "Buy",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4ab09233-aefa-6470-2ee5-d2a67965714e"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Buy",
+          "url": "https://tv.apple.com/ca/movie/peter-rabbit/umc.cmc.7ftk3kwldia83wlreycl98lia?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A1341839651"
+        },
+        {
+          "provider": "CosmoGo",
+          "type": "Buy",
+          "url": "https://www.cosmogo.com/#!/hero/cp800993"
+        }
+      ]
+    },
+    "benhur": {
+      "checkedAt": "2026-09-14T12:44:43.225334Z",
+      "sourceUpdatedAt": "2026-09-14T09:32:43.545295Z",
+      "source": "justwatch",
+      "url": "https://www.justwatch.com/ca/movie/ben-hur",
+      "offers": [
+        {
+          "provider": "Tubi TV",
+          "type": "Stream",
+          "url": "https://tubitv.com/movies/100028628"
+        },
+        {
+          "provider": "Amazon Video",
+          "type": "Rent",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.70a9f7ad-355b-875a-0cd2-cfdad8dfe2af"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Rent",
+          "url": "https://tv.apple.com/ca/movie/ben-hur/umc.cmc.523sgjwmhal494z5qfp0xz51g?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A282983144"
+        },
+        {
+          "provider": "CosmoGo",
+          "type": "Rent",
+          "url": "https://www.cosmogo.com/#!/hero/cp121043"
+        },
+        {
+          "provider": "Amazon Video",
+          "type": "Buy",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.70a9f7ad-355b-875a-0cd2-cfdad8dfe2af"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Buy",
+          "url": "https://tv.apple.com/ca/movie/ben-hur/umc.cmc.523sgjwmhal494z5qfp0xz51g?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A282983144"
+        },
+        {
+          "provider": "CosmoGo",
+          "type": "Buy",
+          "url": "https://www.cosmogo.com/#!/hero/cp121043"
+        }
+      ]
+    },
+    "egypt": {
+      "checkedAt": "2026-09-14T12:44:43.225334Z",
+      "sourceUpdatedAt": "2026-09-12T13:28:40.806555Z",
+      "source": "justwatch",
+      "url": "https://www.justwatch.com/ca/movie/the-prince-of-egypt",
+      "offers": [
+        {
+          "provider": "Amazon Prime Video",
+          "type": "Subscription",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.44b4ce8e-4093-a196-ad1d-24ecf26178a1"
+        },
+        {
+          "provider": "Amazon Prime Video with Ads",
+          "type": "Subscription",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.44b4ce8e-4093-a196-ad1d-24ecf26178a1"
+        },
+        {
+          "provider": "Disney Plus",
+          "type": "Subscription",
+          "url": "https://www.disneyplus.com/browse/entity-f408fe27-9ca3-4d1b-bbf0-254f8c3d7181"
+        },
+        {
+          "provider": "Amazon Video",
+          "type": "Rent",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.44b4ce8e-4093-a196-ad1d-24ecf26178a1"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Rent",
+          "url": "https://tv.apple.com/ca/movie/the-prince-of-egypt/umc.cmc.4d0lq90t403szfg0tbg9t9s20?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A1337777659"
+        },
+        {
+          "provider": "Amazon Video",
+          "type": "Buy",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.44b4ce8e-4093-a196-ad1d-24ecf26178a1"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Buy",
+          "url": "https://tv.apple.com/ca/movie/the-prince-of-egypt/umc.cmc.4d0lq90t403szfg0tbg9t9s20?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A1337777659"
+        }
+      ]
+    },
+    "easterparade": {
+      "checkedAt": "2026-09-14T12:44:43.225334Z",
+      "sourceUpdatedAt": "2026-09-13T22:25:23.798053Z",
+      "source": "justwatch",
+      "url": "https://www.justwatch.com/ca/movie/easter-parade",
+      "offers": [
+        {
+          "provider": "Amazon Video",
+          "type": "Rent",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.66b9bca4-7964-0316-b242-ea9f49a3d350"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Rent",
+          "url": "https://tv.apple.com/ca/movie/easter-parade/umc.cmc.4m60a3k9wwyrwnlr3zc8vd816?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A314946651"
+        },
+        {
+          "provider": "Amazon Video",
+          "type": "Buy",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.66b9bca4-7964-0316-b242-ea9f49a3d350"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Buy",
+          "url": "https://tv.apple.com/ca/movie/easter-parade/umc.cmc.4m60a3k9wwyrwnlr3zc8vd816?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A314946651"
+        }
+      ]
+    },
+    "victoria": {
+      "checkedAt": "2026-09-14T12:44:43.225334Z",
+      "sourceUpdatedAt": "2026-09-08T19:13:32.239002Z",
+      "source": "justwatch",
+      "url": "https://www.justwatch.com/ca/movie/the-young-victoria",
+      "offers": [
+        {
+          "provider": "BBC Select Apple Tv channel",
+          "type": "Subscription",
+          "url": "https://tv.apple.com/ca"
+        },
+        {
+          "provider": "Britbox Apple TV channel",
+          "type": "Subscription",
+          "url": "https://tv.apple.com"
+        },
+        {
+          "provider": "Crave",
+          "type": "Stream",
+          "url": "https://www.crave.ca/en/movie/the-young-victoria-55574"
+        },
+        {
+          "provider": "Amazon Video",
+          "type": "Rent",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bea9f697-9feb-d56e-9d49-81a3b052e152"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Rent",
+          "url": "https://tv.apple.com/ca/movie/the-young-victoria/umc.cmc.1bzo0o1p6bgocw2w9r0fxzbag?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A1765078269"
+        },
+        {
+          "provider": "CosmoGo",
+          "type": "Rent",
+          "url": "https://www.cosmogo.com/#!/hero/cp124874"
+        },
+        {
+          "provider": "Amazon Video",
+          "type": "Buy",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bea9f697-9feb-d56e-9d49-81a3b052e152"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Buy",
+          "url": "https://tv.apple.com/ca/movie/the-young-victoria/umc.cmc.1bzo0o1p6bgocw2w9r0fxzbag?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A1765078269"
+        },
+        {
+          "provider": "CosmoGo",
+          "type": "Buy",
+          "url": "https://www.cosmogo.com/#!/hero/cp124874"
+        }
+      ]
+    },
+    "kingsspeech": {
+      "checkedAt": "2026-09-14T12:44:43.225334Z",
+      "sourceUpdatedAt": "2026-09-07T06:39:50.565731Z",
+      "source": "justwatch",
+      "url": "https://www.justwatch.com/ca/movie/the-kings-speech",
+      "offers": [
+        {
+          "provider": "Amazon Prime Video",
+          "type": "Subscription",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9155d0f6-09c9-409a-afe3-0a5e26eed471"
+        },
+        {
+          "provider": "Amazon Prime Video with Ads",
+          "type": "Subscription",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9155d0f6-09c9-409a-afe3-0a5e26eed471"
+        },
+        {
+          "provider": "Lionsgate+ Amazon Channels",
+          "type": "Subscription",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9155d0f6-09c9-409a-afe3-0a5e26eed471"
+        },
+        {
+          "provider": "Amazon Video",
+          "type": "Rent",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9155d0f6-09c9-409a-afe3-0a5e26eed471"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Rent",
+          "url": "https://tv.apple.com/ca/movie/the-kings-speech/umc.cmc.2zai2umf3u707ehtouwgu2wye?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A1765277873"
+        },
+        {
+          "provider": "CosmoGo",
+          "type": "Rent",
+          "url": "https://www.cosmogo.com/#!/hero/cp124212"
+        },
+        {
+          "provider": "Amazon Video",
+          "type": "Buy",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9155d0f6-09c9-409a-afe3-0a5e26eed471"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Buy",
+          "url": "https://tv.apple.com/ca/movie/the-kings-speech/umc.cmc.2zai2umf3u707ehtouwgu2wye?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A1765277873"
+        },
+        {
+          "provider": "CosmoGo",
+          "type": "Buy",
+          "url": "https://www.cosmogo.com/#!/hero/cp124212"
+        }
+      ]
+    },
+    "queen": {
+      "checkedAt": "2026-09-14T12:44:43.225334Z",
+      "sourceUpdatedAt": "2026-09-13T21:45:01.269254Z",
+      "source": "justwatch",
+      "url": "https://www.justwatch.com/ca/movie/the-queen",
+      "offers": [
+        {
+          "provider": "Crave",
+          "type": "Stream",
+          "url": "https://www.crave.ca/en/movie/the-queen-58623"
+        },
+        {
+          "provider": "Amazon Video",
+          "type": "Rent",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9f82bc2a-211a-47a3-a955-d17f2146c538"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Rent",
+          "url": "https://tv.apple.com/ca/movie/the-queen/umc.cmc.5ldktdsx64je4w1eu5erws4wy?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A1764876625"
+        },
+        {
+          "provider": "CosmoGo",
+          "type": "Rent",
+          "url": "https://www.cosmogo.com/#!/hero/cp123342"
+        },
+        {
+          "provider": "Amazon Video",
+          "type": "Buy",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9f82bc2a-211a-47a3-a955-d17f2146c538"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Buy",
+          "url": "https://tv.apple.com/ca/movie/the-queen/umc.cmc.5ldktdsx64je4w1eu5erws4wy?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A1764876625"
+        },
+        {
+          "provider": "CosmoGo",
+          "type": "Buy",
+          "url": "https://www.cosmogo.com/#!/hero/cp123342"
+        }
+      ]
+    },
+    "boncop": {
+      "checkedAt": "2026-09-14T12:44:43.225334Z",
+      "sourceUpdatedAt": "2026-09-14T04:31:56.684005Z",
+      "source": "justwatch",
+      "url": "https://www.justwatch.com/ca/movie/bon-cop-bad-cop",
+      "offers": [
+        {
+          "provider": "Crave Amazon Channel",
+          "type": "Subscription",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5236f2c7-0035-4901-bf7d-cc353c1d2575"
+        },
+        {
+          "provider": "Netflix",
+          "type": "Subscription",
+          "url": "https://www.netflix.com/title/70095265"
+        },
+        {
+          "provider": "Netflix Standard with Ads",
+          "type": "Subscription",
+          "url": "https://www.netflix.com/title/70095265"
+        },
+        {
+          "provider": "Amazon Video",
+          "type": "Rent",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5236f2c7-0035-4901-bf7d-cc353c1d2575"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Rent",
+          "url": "https://tv.apple.com/ca/movie/bon-cop-bad-cop/umc.cmc.3z1dkpdx1o5x5pjsx4u7k64yl?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A1760830125"
+        },
+        {
+          "provider": "CosmoGo",
+          "type": "Rent",
+          "url": "https://www.cosmogo.com/#!/hero/cp329559"
+        },
+        {
+          "provider": "Amazon Video",
+          "type": "Buy",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5236f2c7-0035-4901-bf7d-cc353c1d2575"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Buy",
+          "url": "https://tv.apple.com/ca/movie/bon-cop-bad-cop/umc.cmc.3z1dkpdx1o5x5pjsx4u7k64yl?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A1760830125"
+        },
+        {
+          "provider": "CosmoGo",
+          "type": "Buy",
+          "url": "https://www.cosmogo.com/#!/hero/cp329559"
+        }
+      ]
+    },
+    "oneweek": {
+      "checkedAt": "2026-09-14T12:44:43.225334Z",
+      "sourceUpdatedAt": "2026-09-13T03:46:41.498073Z",
+      "source": "justwatch",
+      "url": "https://www.justwatch.com/ca/movie/one-week-2008",
+      "offers": [
+        {
+          "provider": "Amazon Prime Video",
+          "type": "Subscription",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.60b479bf-a5fa-04ef-c628-a7f20076e932"
+        },
+        {
+          "provider": "Amazon Prime Video with Ads",
+          "type": "Subscription",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.60b479bf-a5fa-04ef-c628-a7f20076e932"
+        },
+        {
+          "provider": "Starz Amazon Channel",
+          "type": "Subscription",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.60b479bf-a5fa-04ef-c628-a7f20076e932"
+        },
+        {
+          "provider": "Crave",
+          "type": "Stream",
+          "url": "https://www.crave.ca/en/movie/one-week-40299"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Rent",
+          "url": "https://tv.apple.com/ca/movie/one-week/umc.cmc.7huyave61dudgg0co9881kq78?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A314918121"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Buy",
+          "url": "https://tv.apple.com/ca/movie/one-week/umc.cmc.7huyave61dudgg0co9881kq78?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A314918121"
+        }
+      ]
+    },
+    "seduction": {
+      "checkedAt": "2026-09-14T12:44:43.225334Z",
+      "sourceUpdatedAt": "2026-09-14T04:31:12.827094Z",
+      "source": "justwatch",
+      "url": "https://www.justwatch.com/ca/movie/the-grand-seduction",
+      "offers": [
+        {
+          "provider": "Paramount Plus",
+          "type": "Subscription",
+          "url": "https://www.cbs.com/movies/grand-seduction/ALVE01KVC4KDG5EF0VGFQW27CV6DPH?searchReferral=&utm_source=publisher"
+        },
+        {
+          "provider": "Paramount Plus Basic with Ads",
+          "type": "Subscription",
+          "url": "https://www.cbs.com/movies/grand-seduction/ALVE01KVC4KDG5EF0VGFQW27CV6DPH?searchReferral=&utm_source=publisher"
+        },
+        {
+          "provider": "Paramount Plus Premium",
+          "type": "Subscription",
+          "url": "https://www.cbs.com/movies/grand-seduction/ALVE01KVC4KDG5EF0VGFQW27CV6DPH?searchReferral=&utm_source=publisher"
+        },
+        {
+          "provider": "Paramount+ Amazon Channel",
+          "type": "Subscription",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.987c47cb-8686-40a5-8b4d-eadc1236cc73"
+        },
+        {
+          "provider": "Starz Amazon Channel",
+          "type": "Subscription",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.987c47cb-8686-40a5-8b4d-eadc1236cc73"
+        },
+        {
+          "provider": "Amazon Video",
+          "type": "Rent",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.987c47cb-8686-40a5-8b4d-eadc1236cc73"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Rent",
+          "url": "https://tv.apple.com/ca/movie/the-grand-seduction/umc.cmc.5lu1zzclbjhxxl1urwsd4ls3k?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A1764099510"
+        },
+        {
+          "provider": "CosmoGo",
+          "type": "Rent",
+          "url": "https://www.cosmogo.com/#!/hero/cp160982"
+        },
+        {
+          "provider": "Amazon Video",
+          "type": "Buy",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.987c47cb-8686-40a5-8b4d-eadc1236cc73"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Buy",
+          "url": "https://tv.apple.com/ca/movie/the-grand-seduction/umc.cmc.5lu1zzclbjhxxl1urwsd4ls3k?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A1764099510"
+        },
+        {
+          "provider": "CosmoGo",
+          "type": "Buy",
+          "url": "https://www.cosmogo.com/#!/hero/cp160982"
+        }
+      ]
+    },
+    "stillmine": {
+      "checkedAt": "2026-09-14T12:44:43.225334Z",
+      "sourceUpdatedAt": "2026-09-14T08:17:29.548849Z",
+      "source": "justwatch",
+      "url": "https://www.justwatch.com/ca/movie/still-mine",
+      "offers": [
+        {
+          "provider": "Hoopla",
+          "type": "Library access",
+          "url": "https://www.hoopladigital.com/title/11168854"
+        }
+      ]
+    },
+    "bay": {
+      "checkedAt": "2026-09-14T12:44:43.225334Z",
+      "sourceUpdatedAt": null,
+      "source": "justwatch",
+      "url": "https://www.justwatch.com/ca/movie/the-bay-of-love-and-sorrows",
+      "offers": []
+    },
+    "indianhorse": {
+      "checkedAt": "2026-09-14T12:44:43.225334Z",
+      "sourceUpdatedAt": "2026-09-14T09:27:12.543455Z",
+      "source": "justwatch",
+      "url": "https://www.justwatch.com/ca/movie/indian-horse",
+      "offers": [
+        {
+          "provider": "Crave",
+          "type": "Subscription",
+          "url": "https://www.crave.ca/en/movie/indian-horse-44276"
+        },
+        {
+          "provider": "Starz Amazon Channel",
+          "type": "Subscription",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.46b71bd7-493e-fa7c-8711-597a49df12b6"
+        },
+        {
+          "provider": "Tubi TV",
+          "type": "Stream",
+          "url": "https://tubitv.com/movies/100018456"
+        },
+        {
+          "provider": "Amazon Video",
+          "type": "Rent",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.46b71bd7-493e-fa7c-8711-597a49df12b6"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Rent",
+          "url": "https://tv.apple.com/ca/movie/indian-horse/umc.cmc.u3nn39rilswpbk1ihq9dka43?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A1271729999"
+        },
+        {
+          "provider": "CosmoGo",
+          "type": "Rent",
+          "url": "https://www.cosmogo.com/#!/hero/cp353002"
+        },
+        {
+          "provider": "Amazon Video",
+          "type": "Buy",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.46b71bd7-493e-fa7c-8711-597a49df12b6"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Buy",
+          "url": "https://tv.apple.com/ca/movie/indian-horse/umc.cmc.u3nn39rilswpbk1ihq9dka43?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A1271729999"
+        },
+        {
+          "provider": "CosmoGo",
+          "type": "Buy",
+          "url": "https://www.cosmogo.com/#!/hero/cp353002"
+        }
+      ]
+    },
+    "rhymes": {
+      "checkedAt": "2026-09-14T12:44:43.225334Z",
+      "sourceUpdatedAt": "2026-09-13T04:35:59.780479Z",
+      "source": "justwatch",
+      "url": "https://www.justwatch.com/ca/movie/rhymes-for-young-ghouls",
+      "offers": [
+        {
+          "provider": "Crave",
+          "type": "Subscription",
+          "url": "https://www.crave.ca/en/movie/rhymes-for-young-ghouls-47168"
+        },
+        {
+          "provider": "Crave Amazon Channel",
+          "type": "Subscription",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96b5cab9-88c2-cadd-e122-c44d3a10dbde"
+        },
+        {
+          "provider": "Hollywood Suite",
+          "type": "Subscription",
+          "url": "https://hollywoodsuite.ca/movies/rhymes-for-young-ghouls"
+        },
+        {
+          "provider": "Hollywood Suite Amazon Channel",
+          "type": "Subscription",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96b5cab9-88c2-cadd-e122-c44d3a10dbde"
+        },
+        {
+          "provider": "Paramount Plus",
+          "type": "Subscription",
+          "url": "https://www.cbs.com/movies/rhymes-for-young-ghouls/MP99pdmbEyVIsG27XkaAidS_l0qRKhHk?searchReferral=&utm_source=publisher"
+        },
+        {
+          "provider": "Paramount Plus Basic with Ads",
+          "type": "Subscription",
+          "url": "https://www.cbs.com/movies/rhymes-for-young-ghouls/MP99pdmbEyVIsG27XkaAidS_l0qRKhHk?searchReferral=&utm_source=publisher"
+        },
+        {
+          "provider": "Paramount Plus Premium",
+          "type": "Subscription",
+          "url": "https://www.cbs.com/movies/rhymes-for-young-ghouls/MP99pdmbEyVIsG27XkaAidS_l0qRKhHk?searchReferral=&utm_source=publisher"
+        },
+        {
+          "provider": "Paramount+ Amazon Channel",
+          "type": "Subscription",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96b5cab9-88c2-cadd-e122-c44d3a10dbde"
+        },
+        {
+          "provider": "Amazon Video",
+          "type": "Rent",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96b5cab9-88c2-cadd-e122-c44d3a10dbde"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Rent",
+          "url": "https://tv.apple.com/ca/movie/rhymes-for-young-ghouls/umc.cmc.2qc6ll8b61876dnetegmzhjl8?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A6776690381"
+        },
+        {
+          "provider": "Amazon Video",
+          "type": "Buy",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96b5cab9-88c2-cadd-e122-c44d3a10dbde"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Buy",
+          "url": "https://tv.apple.com/ca/movie/rhymes-for-young-ghouls/umc.cmc.2qc6ll8b61876dnetegmzhjl8?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A6776690381"
+        }
+      ]
+    },
+    "beans": {
+      "checkedAt": "2026-09-14T12:44:43.225334Z",
+      "sourceUpdatedAt": "2026-09-13T23:19:29.455172Z",
+      "source": "justwatch",
+      "url": "https://www.justwatch.com/ca/movie/beans",
+      "offers": [
+        {
+          "provider": "Hollywood Suite",
+          "type": "Subscription",
+          "url": "https://hollywoodsuite.ca/movies/beans"
+        },
+        {
+          "provider": "Hollywood Suite Amazon Channel",
+          "type": "Subscription",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b6a43d05-a3ee-49a1-9096-158acbeb3f04"
+        },
+        {
+          "provider": "Paramount Plus",
+          "type": "Subscription",
+          "url": "https://www.cbs.com/movies/beans/RKWtF5t0qZOpukLFhgx648V6hgxChHOG?searchReferral=&utm_source=publisher"
+        },
+        {
+          "provider": "Paramount Plus Basic with Ads",
+          "type": "Subscription",
+          "url": "https://www.cbs.com/movies/beans/RKWtF5t0qZOpukLFhgx648V6hgxChHOG?searchReferral=&utm_source=publisher"
+        },
+        {
+          "provider": "Paramount Plus Premium",
+          "type": "Subscription",
+          "url": "https://www.cbs.com/movies/beans/RKWtF5t0qZOpukLFhgx648V6hgxChHOG?searchReferral=&utm_source=publisher"
+        },
+        {
+          "provider": "Paramount+ Amazon Channel",
+          "type": "Subscription",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b6a43d05-a3ee-49a1-9096-158acbeb3f04"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Rent",
+          "url": "https://tv.apple.com/ca/movie/beans/umc.cmc.ak20gqas726eu3c0yrpe00d?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A1560733225"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Buy",
+          "url": "https://tv.apple.com/ca/movie/beans/umc.cmc.ak20gqas726eu3c0yrpe00d?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A1560733225"
+        }
+      ]
+    },
+    "angryinuk": {
+      "checkedAt": "2026-09-14T12:44:43.225334Z",
+      "sourceUpdatedAt": "2026-09-13T22:05:42.292758Z",
+      "source": "justwatch",
+      "url": "https://www.justwatch.com/ca/movie/angry-inuk",
+      "offers": [
+        {
+          "provider": "Amazon Prime Video",
+          "type": "Subscription",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c4b0fc62-6cde-0d13-67e5-e1caa4686de3"
+        },
+        {
+          "provider": "Amazon Prime Video with Ads",
+          "type": "Subscription",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c4b0fc62-6cde-0d13-67e5-e1caa4686de3"
+        },
+        {
+          "provider": "Filmzie",
+          "type": "Stream",
+          "url": "https://filmzie.com/content/angry-inuk"
+        },
+        {
+          "provider": "Knowledge Network",
+          "type": "Stream",
+          "url": "https://www.knowledge.ca/watch/4a1e35f1-ae30-42be-b744-1cb5d1a0dc4c"
+        },
+        {
+          "provider": "NFB",
+          "type": "Stream",
+          "url": "https://www.nfb.ca/film/angry_inuk/"
+        },
+        {
+          "provider": "Tubi TV",
+          "type": "Stream",
+          "url": "https://tubitv.com/movies/668368"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Rent",
+          "url": "https://tv.apple.com/ca/movie/angry-inuk/umc.cmc.5tergpaoo9314xiq5jrjnu4wi?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A1183956858"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Buy",
+          "url": "https://tv.apple.com/ca/movie/angry-inuk/umc.cmc.5tergpaoo9314xiq5jrjnu4wi?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A1183956858"
+        }
+      ]
+    },
+    "ninefive": {
+      "checkedAt": "2026-09-14T12:44:43.225334Z",
+      "sourceUpdatedAt": "2026-09-14T09:06:19.328437Z",
+      "source": "justwatch",
+      "url": "https://www.justwatch.com/ca/movie/nine-to-five",
+      "offers": [
+        {
+          "provider": "Crave Amazon Channel",
+          "type": "Subscription",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.36b8b38b-a70b-ce62-860e-1c109e1a233c"
+        },
+        {
+          "provider": "Disney Plus",
+          "type": "Subscription",
+          "url": "https://www.disneyplus.com/browse/entity-0c880b10-d6eb-4049-947a-51ee3539137b"
+        },
+        {
+          "provider": "Netflix",
+          "type": "Subscription",
+          "url": "https://www.netflix.com/title/60010717"
+        },
+        {
+          "provider": "Netflix Standard with Ads",
+          "type": "Subscription",
+          "url": "https://www.netflix.com/title/60010717"
+        },
+        {
+          "provider": "Amazon Video",
+          "type": "Rent",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.36b8b38b-a70b-ce62-860e-1c109e1a233c"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Rent",
+          "url": "https://tv.apple.com/ca/movie/9-to-5/umc.cmc.6699oj53hpahhj86etlt03jah?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A547167825"
+        },
+        {
+          "provider": "Amazon Video",
+          "type": "Buy",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.36b8b38b-a70b-ce62-860e-1c109e1a233c"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Buy",
+          "url": "https://tv.apple.com/ca/movie/9-to-5/umc.cmc.6699oj53hpahhj86etlt03jah?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A547167825"
+        }
+      ]
+    },
+    "pride": {
+      "checkedAt": "2026-09-14T12:44:43.225334Z",
+      "sourceUpdatedAt": null,
+      "source": "justwatch",
+      "url": "https://www.justwatch.com/ca/movie/pride",
+      "offers": []
+    },
+    "sorry": {
+      "checkedAt": "2026-09-14T12:44:43.225334Z",
+      "sourceUpdatedAt": "2026-09-11T04:41:09.455797Z",
+      "source": "justwatch",
+      "url": "https://www.justwatch.com/ca/movie/sorry-to-bother-you",
+      "offers": [
+        {
+          "provider": "Tubi TV",
+          "type": "Stream",
+          "url": "https://tubitv.com/movies/622910"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Rent",
+          "url": "https://tv.apple.com/ca/movie/sorry-to-bother-you/umc.cmc.xzg0k5cj56qp4h3ylzd7xeyd?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A1760378147"
+        },
+        {
+          "provider": "CosmoGo",
+          "type": "Rent",
+          "url": "https://www.cosmogo.com/#!/hero/cp361703"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Buy",
+          "url": "https://tv.apple.com/ca/movie/sorry-to-bother-you/umc.cmc.xzg0k5cj56qp4h3ylzd7xeyd?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A1760378147"
+        },
+        {
+          "provider": "CosmoGo",
+          "type": "Buy",
+          "url": "https://www.cosmogo.com/#!/hero/cp361703"
+        }
+      ]
+    },
+    "road": {
+      "checkedAt": "2026-09-14T12:44:43.225334Z",
+      "sourceUpdatedAt": null,
+      "source": "justwatch",
+      "url": "https://www.justwatch.com/ca/movie/goin-down-the-road",
+      "offers": []
+    },
+    "planes": {
+      "checkedAt": "2026-09-14T12:44:43.225334Z",
+      "sourceUpdatedAt": "2026-09-14T07:34:17.336289Z",
+      "source": "justwatch",
+      "url": "https://www.justwatch.com/ca/movie/planes-trains-and-automobiles",
+      "offers": [
+        {
+          "provider": "Super Channel Amazon Channel",
+          "type": "Subscription",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b3e38ec6-1fe4-41f1-b047-927a98c07d6e"
+        },
+        {
+          "provider": "Super Channel Plus",
+          "type": "Subscription",
+          "url": "https://www.superchannelplus.ca/browse"
+        },
+        {
+          "provider": "fuboTV",
+          "type": "Subscription",
+          "url": "https://www.fubo.tv/welcome/program/MV002809360000?irmp=1206980&irad=599309"
+        },
+        {
+          "provider": "Amazon Video",
+          "type": "Rent",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b3e38ec6-1fe4-41f1-b047-927a98c07d6e"
+        },
+        {
+          "provider": "CosmoGo",
+          "type": "Rent",
+          "url": "https://www.cosmogo.com/#!/hero/cp123455"
+        },
+        {
+          "provider": "Amazon Video",
+          "type": "Buy",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b3e38ec6-1fe4-41f1-b047-927a98c07d6e"
+        },
+        {
+          "provider": "CosmoGo",
+          "type": "Buy",
+          "url": "https://www.cosmogo.com/#!/hero/cp123455"
+        }
+      ]
+    },
+    "april": {
+      "checkedAt": "2026-09-14T12:44:43.225334Z",
+      "sourceUpdatedAt": "2026-09-14T08:17:41.881895Z",
+      "source": "justwatch",
+      "url": "https://www.justwatch.com/ca/movie/pieces-of-april",
+      "offers": [
+        {
+          "provider": "Hoopla",
+          "type": "Library access",
+          "url": "https://www.hoopladigital.com/title/12027286"
+        },
+        {
+          "provider": "Tubi TV",
+          "type": "Stream",
+          "url": "https://tubitv.com/movies/301155"
+        },
+        {
+          "provider": "Amazon Video",
+          "type": "Rent",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.85cd1ae5-9b74-4e2f-8c15-6469700b5dc6"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Rent",
+          "url": "https://tv.apple.com/ca/movie/pieces-of-april/umc.cmc.1e6pecpwn7f7iuthgmsvok5g?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A250858007"
+        },
+        {
+          "provider": "Amazon Video",
+          "type": "Buy",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.85cd1ae5-9b74-4e2f-8c15-6469700b5dc6"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Buy",
+          "url": "https://tv.apple.com/ca/movie/pieces-of-april/umc.cmc.1e6pecpwn7f7iuthgmsvok5g?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A250858007"
+        }
+      ]
+    },
+    "holidays": {
+      "checkedAt": "2026-09-14T12:44:43.225334Z",
+      "sourceUpdatedAt": "2026-09-13T05:32:00.767531Z",
+      "source": "justwatch",
+      "url": "https://www.justwatch.com/ca/movie/home-for-the-holidays",
+      "offers": [
+        {
+          "provider": "Crave",
+          "type": "Subscription",
+          "url": "https://www.crave.ca/en/movie/home-for-the-holidays-59031"
+        },
+        {
+          "provider": "Crave Amazon Channel",
+          "type": "Subscription",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6eb9e8bf-2f0c-428d-bcc0-c8df7d3155b5"
+        },
+        {
+          "provider": "Starz Amazon Channel",
+          "type": "Subscription",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6eb9e8bf-2f0c-428d-bcc0-c8df7d3155b5"
+        },
+        {
+          "provider": "Super Channel Amazon Channel",
+          "type": "Subscription",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6eb9e8bf-2f0c-428d-bcc0-c8df7d3155b5"
+        },
+        {
+          "provider": "Super Channel Plus",
+          "type": "Subscription",
+          "url": "https://www.superchannelplus.ca/browse"
+        },
+        {
+          "provider": "fuboTV",
+          "type": "Subscription",
+          "url": "https://www.fubo.tv/welcome/program/MV002819900000?irmp=1206980&irad=599309"
+        },
+        {
+          "provider": "Amazon Video",
+          "type": "Rent",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6eb9e8bf-2f0c-428d-bcc0-c8df7d3155b5"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Rent",
+          "url": "https://tv.apple.com/ca/movie/home-for-the-holidays/umc.cmc.ny8epjezruc61y89ooku6we3?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A353038591"
+        },
+        {
+          "provider": "Amazon Video",
+          "type": "Buy",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6eb9e8bf-2f0c-428d-bcc0-c8df7d3155b5"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Buy",
+          "url": "https://tv.apple.com/ca/movie/home-for-the-holidays/umc.cmc.ny8epjezruc61y89ooku6we3?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A353038591"
+        }
+      ]
+    },
+    "passchendaele": {
+      "checkedAt": "2026-09-14T12:44:43.225334Z",
+      "sourceUpdatedAt": "2026-09-13T21:48:13.872437Z",
+      "source": "justwatch",
+      "url": "https://www.justwatch.com/ca/movie/passchendaele",
+      "offers": [
+        {
+          "provider": "Amazon Prime Video",
+          "type": "Subscription",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.53b60612-db9e-481d-aac6-d648c6dfdb45"
+        },
+        {
+          "provider": "Amazon Prime Video with Ads",
+          "type": "Subscription",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.53b60612-db9e-481d-aac6-d648c6dfdb45"
+        },
+        {
+          "provider": "Crave",
+          "type": "Subscription",
+          "url": "https://www.crave.ca/en/movie/passchendaele-50141"
+        },
+        {
+          "provider": "Crave Amazon Channel",
+          "type": "Subscription",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.53b60612-db9e-481d-aac6-d648c6dfdb45"
+        },
+        {
+          "provider": "Starz Amazon Channel",
+          "type": "Subscription",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.53b60612-db9e-481d-aac6-d648c6dfdb45"
+        },
+        {
+          "provider": "Amazon Video",
+          "type": "Rent",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.53b60612-db9e-481d-aac6-d648c6dfdb45"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Rent",
+          "url": "https://tv.apple.com/ca/movie/passchendaele/umc.cmc.qse6064ugqlos9g1oybxi393?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A1764165721"
+        },
+        {
+          "provider": "CosmoGo",
+          "type": "Rent",
+          "url": "https://www.cosmogo.com/#!/hero/cp226071"
+        },
+        {
+          "provider": "Amazon Video",
+          "type": "Buy",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.53b60612-db9e-481d-aac6-d648c6dfdb45"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Buy",
+          "url": "https://tv.apple.com/ca/movie/passchendaele/umc.cmc.qse6064ugqlos9g1oybxi393?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A1764165721"
+        },
+        {
+          "provider": "CosmoGo",
+          "type": "Buy",
+          "url": "https://www.cosmogo.com/#!/hero/cp226071"
+        }
+      ]
+    },
+    "hyena": {
+      "checkedAt": "2026-09-14T12:44:43.225334Z",
+      "sourceUpdatedAt": "2026-09-14T08:27:07.542374Z",
+      "source": "justwatch",
+      "url": "https://www.justwatch.com/ca/movie/hyena-road",
+      "offers": [
+        {
+          "provider": "Crave",
+          "type": "Subscription",
+          "url": "https://www.crave.ca/en/movie/hyena-road-38035"
+        },
+        {
+          "provider": "Crave Amazon Channel",
+          "type": "Subscription",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4eb79e10-cd3d-5233-eddc-79a132a9f9ac"
+        },
+        {
+          "provider": "Starz Amazon Channel",
+          "type": "Subscription",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4eb79e10-cd3d-5233-eddc-79a132a9f9ac"
+        },
+        {
+          "provider": "Tubi TV",
+          "type": "Stream",
+          "url": "https://tubitv.com/movies/571028"
+        },
+        {
+          "provider": "Amazon Video",
+          "type": "Rent",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4eb79e10-cd3d-5233-eddc-79a132a9f9ac"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Rent",
+          "url": "https://tv.apple.com/ca/movie/hyena-road/umc.cmc.4fwcojduozf02ao5mr7gj0uq2?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A1030811068"
+        },
+        {
+          "provider": "CosmoGo",
+          "type": "Rent",
+          "url": "https://www.cosmogo.com/#!/hero/cp236557"
+        },
+        {
+          "provider": "Amazon Video",
+          "type": "Buy",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4eb79e10-cd3d-5233-eddc-79a132a9f9ac"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Buy",
+          "url": "https://tv.apple.com/ca/movie/hyena-road/umc.cmc.4fwcojduozf02ao5mr7gj0uq2?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A1030811068"
+        },
+        {
+          "provider": "CosmoGo",
+          "type": "Buy",
+          "url": "https://www.cosmogo.com/#!/hero/cp236557"
+        }
+      ]
+    },
+    "1917": {
+      "checkedAt": "2026-09-14T12:44:43.225334Z",
+      "sourceUpdatedAt": "2026-09-14T00:04:37.883568Z",
+      "source": "justwatch",
+      "url": "https://www.justwatch.com/ca/movie/1917",
+      "offers": [
+        {
+          "provider": "Amazon Prime Video",
+          "type": "Subscription",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d4b77af3-b88f-1d33-46a2-671197806e21"
+        },
+        {
+          "provider": "Amazon Prime Video with Ads",
+          "type": "Subscription",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d4b77af3-b88f-1d33-46a2-671197806e21"
+        },
+        {
+          "provider": "Netflix",
+          "type": "Subscription",
+          "url": "https://www.netflix.com/title/81140931"
+        },
+        {
+          "provider": "Netflix Standard with Ads",
+          "type": "Subscription",
+          "url": "https://www.netflix.com/title/81140931"
+        },
+        {
+          "provider": "Amazon Video",
+          "type": "Rent",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d4b77af3-b88f-1d33-46a2-671197806e21"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Rent",
+          "url": "https://tv.apple.com/ca/movie/1917/umc.cmc.6obl95cblvxp3q916q1t66w66?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A1490807532"
+        },
+        {
+          "provider": "Amazon Video",
+          "type": "Buy",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d4b77af3-b88f-1d33-46a2-671197806e21"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Buy",
+          "url": "https://tv.apple.com/ca/movie/1917/umc.cmc.6obl95cblvxp3q916q1t66w66?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A1490807532"
+        }
+      ]
+    },
+    "bestyears": {
+      "checkedAt": "2026-09-14T12:44:43.225334Z",
+      "sourceUpdatedAt": "2026-09-14T09:41:42.043046Z",
+      "source": "justwatch",
+      "url": "https://www.justwatch.com/ca/movie/the-best-years-of-our-lives",
+      "offers": [
+        {
+          "provider": "Tubi TV",
+          "type": "Stream",
+          "url": "https://tubitv.com/movies/100048414"
+        },
+        {
+          "provider": "Amazon Video",
+          "type": "Rent",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4ca9f7ad-a22c-9447-07a8-fdbaeebe7dea"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Rent",
+          "url": "https://tv.apple.com/ca/movie/the-best-years-of-our-lives/umc.cmc.6ll8awupea52o2e215bvxwd7p?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A596022479"
+        },
+        {
+          "provider": "Amazon Video",
+          "type": "Buy",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4ca9f7ad-a22c-9447-07a8-fdbaeebe7dea"
+        },
+        {
+          "provider": "Apple TV Store",
+          "type": "Buy",
+          "url": "https://tv.apple.com/ca/movie/the-best-years-of-our-lives/umc.cmc.6ll8awupea52o2e215bvxwd7p?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A596022479"
+        }
+      ]
+    },
+    "acadia": {
+      "checkedAt": "2026-09-14T12:44:43.225334Z",
+      "sourceUpdatedAt": null,
+      "source": "nfb",
+      "url": "https://www.nfb.ca/film/acadia_acadia/",
+      "offers": [
+        {
+          "provider": "NFB",
+          "type": "Film player",
+          "url": "https://www.nfb.ca/film/acadia_acadia/"
+        }
+      ]
+    },
+    "evangeline": {
+      "checkedAt": "2026-09-14T12:44:43.225334Z",
+      "sourceUpdatedAt": null,
+      "source": "nfb",
+      "url": "https://www.nfb.ca/film/evangelines_quest/",
+      "offers": [
+        {
+          "provider": "NFB",
+          "type": "Film player",
+          "url": "https://www.nfb.ca/film/evangelines_quest/"
+        }
+      ]
+    },
+    "edith": {
+      "checkedAt": "2026-09-14T12:44:43.225334Z",
+      "sourceUpdatedAt": null,
+      "source": "nfb",
+      "url": "https://www.nfb.ca/film/edith_butler_daughter_of_the_wind/",
+      "offers": [
+        {
+          "provider": "NFB",
+          "type": "Film player",
+          "url": "https://www.nfb.ca/film/edith_butler_daughter_of_the_wind/"
+        }
+      ]
+    }
+  },
+  "lastRunAt": "2026-09-14T12:44:43.225334Z"
+}

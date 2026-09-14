@@ -1,170 +1,53 @@
-<!DOCTYPE html>
-<html lang="en">
+<!doctype html>
+<html lang="en-CA">
 <head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<meta name="description" content="A seasonal movie marathon hub with Halloween and holiday trope Bingo and a cult triple feature." />
-<title>Horror &amp; Holiday Movie Hub</title>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Creepster&family=Mountains+of+Christmas:wght@700&family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
-<style>
-:root { --bg:#0b090f; --surface:#15111d; --surface-hover:#1e192a; --border:#2d243e; --text:#f0ecf6; --subtext:#a098b5; --accent:#ff6600; --accent-glow:rgba(255,102,0,.45); --font-display:'Creepster',cursive; --tier-good:#00e676; --tier-bad:#ff9100; --tier-horrible:#ff1744; --stamp-color:#ff3b00; }
-body.theme-christmas { --bg:#07120b; --surface:#0e2014; --surface-hover:#16301f; --border:#1e452c; --text:#f5fbf6; --subtext:#96be9f; --accent:#d42426; --accent-glow:rgba(212,36,38,.45); --font-display:'Mountains of Christmas',cursive; --tier-good:#2ecc71; --tier-bad:#e67e22; --tier-horrible:#c0392b; --stamp-color:#27ae60; }
-* { box-sizing:border-box; margin:0; padding:0; }
-body { background:var(--bg); color:var(--text); font-family:'Inter',sans-serif; min-height:100vh; padding:2rem 1rem; transition:background .4s ease,color .4s ease; }
-.container { max-width:900px; margin:0 auto; }
-header { text-align:center; margin-bottom:2rem; border-bottom:1px solid var(--border); padding-bottom:1.5rem; }
-.theme-banner { display:inline-block; font-size:.8rem; text-transform:uppercase; letter-spacing:.15em; padding:.35rem .8rem; border-radius:999px; background:var(--surface); border:1px solid var(--border); color:var(--subtext); margin-bottom:.75rem; }
-h1 { font-family:var(--font-display); font-size:clamp(2.5rem,6vw,4.2rem); letter-spacing:2px; color:var(--accent); text-shadow:0 0 15px var(--accent-glow); line-height:1.1; margin-bottom:.5rem; }
-.mode-controls,.tabs { display:flex; justify-content:center; gap:.5rem; flex-wrap:wrap; }
-.mode-controls { margin-top:1rem; }
-button { background:var(--surface); border:1px solid var(--border); color:var(--text); font-family:inherit; font-size:.85rem; font-weight:600; padding:.5rem 1rem; border-radius:6px; cursor:pointer; transition:background .2s ease,border-color .2s ease; }
-button:hover { background:var(--surface-hover); border-color:var(--accent); }
-button:focus-visible { outline:3px solid var(--accent); outline-offset:3px; }
-.tabs { margin-bottom:2rem; }
-.tab-btn.active { background:var(--accent); border-color:var(--accent); color:#fff; }
-.section-view { display:none; }
-.section-view.active { display:block; }
-.bingo-card-wrap { background:var(--surface); border:1px solid var(--border); border-radius:12px; padding:1.5rem; box-shadow:0 10px 30px rgba(0,0,0,.4); }
-.card-heading { display:flex; justify-content:space-between; align-items:center; gap:1rem; flex-wrap:wrap; }
-h2 { font-size:1.25rem; font-weight:700; }
-.bingo-grid { display:grid; grid-template-columns:repeat(5,minmax(0,1fr)); gap:8px; margin-top:1.5rem; }
-.bingo-cell { aspect-ratio:1; background:var(--surface-hover); border:1px solid var(--border); border-radius:8px; padding:.5rem; display:flex; align-items:center; justify-content:center; text-align:center; font-size:clamp(.75rem,1.4vw,.85rem); font-weight:600; cursor:pointer; user-select:none; position:relative; overflow-wrap:anywhere; transition:all .15s ease; }
-.bingo-cell:hover { border-color:var(--accent); transform:translateY(-2px); }
-.bingo-cell.marked { background:rgba(255,255,255,.05); border-color:var(--stamp-color); color:var(--subtext); }
-.bingo-cell.marked::after { content:"✕"; position:absolute; font-size:clamp(2rem,5vw,3.5rem); color:var(--stamp-color); font-weight:800; opacity:.85; transform:rotate(-10deg); pointer-events:none; }
-.bingo-cell.free-space { border-color:var(--accent); color:var(--accent); cursor:default; }
-.bingo-banner { margin-top:1rem; padding:1rem; text-align:center; background:var(--stamp-color); color:#fff; font-weight:800; border-radius:8px; text-transform:uppercase; letter-spacing:2px; }
-.bingo-banner[hidden] { display:none; }
-.picks-grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(min(240px,100%),1fr)); gap:1rem; }
-.pick-card { background:var(--surface); border:1px solid var(--border); border-radius:8px; padding:1.25rem; border-left-width:4px; }
-.card-good { border-left-color:var(--tier-good); }.card-bad { border-left-color:var(--tier-bad); }.card-horrible { border-left-color:var(--tier-horrible); }
-.badge { display:inline-block; font-size:.7rem; font-weight:800; text-transform:uppercase; letter-spacing:.05em; margin-bottom:.5rem; padding:.2rem .5rem; border-radius:4px; }
-.badge-good { background:var(--tier-good); color:#000; }.badge-bad { background:var(--tier-bad); color:#000; }.badge-horrible { background:var(--tier-horrible); color:#fff; }
-.movie-title { font-size:1.1rem; font-weight:700; margin-bottom:.35rem; }.movie-desc { font-size:.8rem; color:var(--subtext); line-height:1.4; }
-@media(max-width:540px) { body { padding:1rem .5rem; }.bingo-card-wrap { padding:.75rem; }.bingo-grid { gap:4px; }.bingo-cell { aspect-ratio:auto; min-height:110px; padding:.25rem; } }
-@media(prefers-reduced-motion:reduce) { *,*::after { transition:none!important; } }
-</style>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Squarewatch — Every season has a screening</title>
+<meta name="description" content="Seasonal movie lists, Canadian streaming options, and movie Bingo. Made for the Canadian and New Brunswick holiday calendar.">
+<meta name="theme-color" content="#16071c">
+<link rel="stylesheet" href="styles.css">
+<script type="module" src="app.mjs"></script>
 </head>
 <body>
-<main class="container">
-<header>
-<div id="theme-status" class="theme-banner">🎃 Halloween Active Season</div>
-<h1 id="main-title">Horror Marathon Hub</h1>
-<div class="mode-controls">
-<button type="button" onclick="setTheme('halloween')">🎃 Force Halloween</button>
-<button type="button" onclick="setTheme('christmas')">🎄 Force Holiday</button>
-<button type="button" onclick="applyAutoTheme()">🔄 Match Calendar</button>
-</div>
+<a class="skip-link" href="#main">Skip to movie night</a>
+<div class="shell">
+<header class="masthead">
+<a class="logo-link" href="./" aria-label="Squarewatch home"><img src="assets/squarewatch-logo.jpg" alt="Squarewatch — neon television and Bingo grid" width="1280" height="698"></a>
+<div class="masthead-note"><span class="eyebrow">YOUR NEXT MOVIE NIGHT</span><p>Every season has<br>a screening.</p><span class="location">CANADA / NEW BRUNSWICK</span></div>
 </header>
-<nav class="tabs" aria-label="Movie hub sections">
-<button type="button" class="tab-btn active" data-view="bingo" aria-pressed="true" aria-controls="view-bingo" onclick="switchTab('bingo')">🎬 Marathon Bingo</button>
-<button type="button" class="tab-btn" data-view="today" aria-pressed="false" aria-controls="view-today" onclick="switchTab('today')">🍿 Today's Triple Feature</button>
+<main id="main">
+<section class="season-panel" aria-labelledby="season-title">
+<div class="season-copy"><div class="eyebrow" id="season-kicker">TUNING IN TO THE CALENDAR</div><h1 id="season-title">Your next screening</h1><p id="season-caption">Loading your seasonal programme…</p><div id="season-meta" class="season-meta"></div></div>
+<div class="season-decoration" aria-hidden="true"><span id="season-icon">✦</span><div id="season-motif">✦ ✧ ✦</div></div>
+</section>
+<form class="calendar-controls" id="calendar-controls">
+<label>Programme<select id="season-select"><option value="auto">Auto · next holiday</option></select></label>
+<label>Calendar date<input id="date-preview" type="date" min="1900-01-01" max="2199-12-31" required></label>
+<button type="button" class="button quiet" id="today-button">Back to today</button>
+<p id="cycle-status" class="small" role="status"></p>
+</form>
+<p id="occasion-note" class="occasion-note" hidden></p>
+<nav class="tabs" aria-label="Squarewatch sections">
+<button type="button" class="tab active" data-view="movies" aria-pressed="true" aria-controls="view-movies">01 <span>Movie lineup</span></button>
+<button type="button" class="tab" data-view="bingo" aria-pressed="false" aria-controls="view-bingo">02 <span>Marathon Bingo</span></button>
+<button type="button" class="tab" data-view="calendar" aria-pressed="false" aria-controls="view-calendar">03 <span>Holiday calendar</span></button>
 </nav>
-<section id="view-bingo" class="section-view active" aria-labelledby="bingo-title">
-<div class="bingo-card-wrap">
-<div class="card-heading"><h2 id="bingo-title">Halloween Tropes Card</h2><button type="button" onclick="generateBingoGrid()">🔀 New Card</button></div>
-<div id="bingo-board" class="bingo-grid" aria-label="Movie trope Bingo card"></div>
-<div id="win-banner" class="bingo-banner" role="status" hidden>🎉 BINGO! You survived the marathon! 🎉</div>
-</div>
+<section id="view-movies" aria-labelledby="lineup-title">
+<div class="section-heading"><div><div class="eyebrow">TONIGHT’S ROTATION</div><h2 id="lineup-title">A seasonal triple feature</h2></div><span id="lineup-date" class="small"></span></div>
+<p class="section-intro" id="lineup-intro">Three picks from the season’s collection, changing each day.</p>
+<div id="movie-grid" class="movie-grid"><p role="status">Loading the lineup…</p></div>
+<details class="collection"><summary>See the full seasonal collection <span id="collection-count"></span></summary><div id="collection-grid" class="movie-grid"></div></details>
+<p class="availability-note">Viewing options for Canada, sourced from <a href="https://www.justwatch.com/ca">JustWatch</a> and the <a href="https://www.nfb.ca/">NFB</a>. Checked daily; dates appear on each film. Subscriptions, ads, and library access vary. Confirm the offer with the provider before paying.</p>
 </section>
-<section id="view-today" class="section-view" aria-label="Today's Triple Feature">
-<div class="picks-grid">
-<article class="pick-card card-good"><span class="badge badge-good">Good Tier</span><h2 class="movie-title">Psycho (1960)</h2><p class="movie-desc">Hitchcock's proto-slasher masterpiece. Critical consensus score benchmark.</p></article>
-<article class="pick-card card-bad"><span class="badge badge-bad">Bad Tier (Cult)</span><h2 class="movie-title">Troll 2 (1990)</h2><p class="movie-desc">Legendary vegetarian goblins of Nilbog. Pure midnight cult phenomenon.</p></article>
-<article class="pick-card card-horrible"><span class="badge badge-horrible">Horrible / Rare</span><h2 class="movie-title">Things (1989)</h2><p class="movie-desc">Incomprehensible Canadian shot-on-video amber-tinted basement nightmare.</p></article>
-</div>
+<section id="view-bingo" aria-labelledby="bingo-title" hidden>
+<div class="section-heading"><div><div class="eyebrow">WATCH. SPOT. MARK.</div><h2 id="bingo-title">Marathon Bingo</h2></div><button type="button" class="button primary" id="new-card">Shuffle card</button></div>
+<p id="bingo-help" class="section-intro">Mark a trope when it appears. Five in a row, column, or diagonal makes Bingo.</p>
+<div class="bingo-layout"><div class="bingo-card"><div class="bingo-letters" aria-hidden="true"><span>B</span><span>I</span><span>N</span><span>G</span><span>O</span></div><div id="bingo-board" class="bingo-grid" aria-label="Movie trope Bingo"></div></div><aside class="bingo-sidebar"><span class="eyebrow">THE HOUSE RULES</span><h3>Keep your eyes<br>on the screen.</h3><p>Click or tap a square to mark it. Tap again to undo. The centre is on the house.</p><p>Keyboard: Tab to a square, then Enter or Space.</p><div class="marked-count" id="marked-count">1 / 25</div><span class="small">SQUARES MARKED</span><p id="win-banner" role="status" hidden></p></aside></div>
 </section>
-<noscript><p>Please enable JavaScript to play Bingo and switch themes.</p></noscript>
+<section id="view-calendar" aria-labelledby="calendar-title" hidden><div class="section-heading"><div><div class="eyebrow">A YEAR OF MOVIE NIGHTS</div><h2 id="calendar-title">Coming up on Squarewatch</h2></div></div><p class="section-intro">Select an occasion to preview its films, decoration, and Bingo card.</p><div id="holiday-list" class="holiday-list"></div><p class="availability-note">This is a screening calendar, using occasion dates rather than workplace substitute days. Canada Day follows July 2 when July 1 is a Sunday. Labels distinguish federal holidays, NB public holidays, days of rest, public-service holidays, and cultural observances.</p></section>
+<p id="app-error" role="alert" hidden></p>
+<noscript><p>Enable JavaScript for the holiday calendar, movie lists, and Bingo. <a href="https://www.justwatch.com/ca">Browse viewing options in Canada.</a></p></noscript>
 </main>
-<script>
-const HALLOWEEN_TROPES = [
-"Car engine won't turn over", "Ominous local gives warning", "Investigating a dark basement",
-"Jump scare is just a cat", "Creepy child sings or hums", "Flickering lights / power dies",
-"Zero cellular signal", "Built on an ancient cemetery", "Bathroom mirror fake-out",
-"Character trips over nothing", "Group decides to split up", "Unsettling porcelain doll",
-"Audio glitch / tape distortion", "Shower scene interruption", "Final survivor is covered in blood",
-"Masked figure vanishes on glance", "Summoning ritual goes wrong", "Police dismiss initial report",
-"Entity mimics someone's voice", "Radio plays unsettling tune", "Door locks itself shut",
-"Found footage camera drops", "Flashlight dies right on cue", "Creaking floorboards upstairs"
-];
-const CHRISTMAS_TROPES = [
-"Big city executive visits small town", "Family bakery/inn faces foreclosure", "Small town snow globe magic",
-"Snowstorm cancels flight home", "Grumpy widower learns to love", "Prince hides royal identity",
-"Mistletoe awkward encounter", "Ice skating hand-holding fall", "Hot cocoa cures emotional wound",
-"Ugly Christmas sweater contest", "Santa is secretly a real person", "Tree lighting countdown crisis",
-"Child makes wish to Santa", "Carolers show up unannounced", "Snow falls exactly at midnight",
-"Deadlines moved to Christmas Eve", "Greedy developer changes heart", "Decorating attic memory montage",
-"Antique ornament has a backstory", "Rival high school sweethearts reunite", "Baking contest sabotage/mixup",
-"Dog wears reindeer antlers", "Car breaks down in snowdrift", "Gingerbread house collapse"
-];
-let currentTropeSet = HALLOWEEN_TROPES;
-// Local calendar: November 1 through December 31 uses the holiday theme.
-function applyAutoTheme() { setTheme(new Date().getMonth() >= 10 ? 'christmas' : 'halloween'); }
-function setTheme(theme) {
-  const holiday = theme === 'christmas';
-  document.body.classList.toggle('theme-christmas', holiday);
-  document.getElementById('theme-status').textContent = holiday ? '🎄 Holiday Season Active' : '🎃 Halloween Season Active';
-  document.getElementById('main-title').textContent = holiday ? 'Holiday Movie Hub' : 'Horror Marathon Hub';
-  document.getElementById('bingo-title').textContent = holiday ? 'Holiday Trope Bingo' : 'Horror Trope Bingo';
-  document.getElementById('win-banner').textContent = holiday ? '🎉 BINGO! Holiday movie magic! 🎉' : '🎉 BINGO! You survived the marathon! 🎉';
-  currentTropeSet = holiday ? CHRISTMAS_TROPES : HALLOWEEN_TROPES;
-  generateBingoGrid();
-}
-function switchTab(viewName) {
-  document.querySelectorAll('.section-view').forEach(el => el.classList.toggle('active', el.id === `view-${viewName}`));
-  document.querySelectorAll('.tab-btn').forEach(el => {
-    const active = el.dataset.view === viewName;
-    el.classList.toggle('active', active);
-    el.setAttribute('aria-pressed', String(active));
-  });
-}
-function generateBingoGrid() {
-  const board = document.getElementById('bingo-board');
-  document.getElementById('win-banner').hidden = true;
-  board.replaceChildren();
-  const shuffled = [...currentTropeSet];
-  // Fisher–Yates avoids the bias of sorting with a random comparator.
-  for (let i = shuffled.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
-  }
-  let tropeIndex = 0;
-  for (let i = 0; i < 25; i++) {
-    const cell = document.createElement('button');
-    cell.type = 'button';
-    cell.classList.add('bingo-cell');
-    cell.dataset.index = i;
-    cell.setAttribute('aria-pressed', String(i === 12));
-    if (i === 12) {
-      cell.classList.add('marked', 'free-space');
-      cell.innerHTML = '⭐<br>FREE<br>SPACE';
-      cell.setAttribute('aria-label', 'Free space, always marked');
-      cell.setAttribute('aria-disabled', 'true');
-    } else {
-      cell.textContent = shuffled[tropeIndex++];
-      cell.addEventListener('click', () => toggleCell(cell));
-    }
-    board.appendChild(cell);
-  }
-}
-function toggleCell(cell) {
-  if (cell.classList.contains('free-space')) return;
-  const marked = cell.classList.toggle('marked');
-  cell.setAttribute('aria-pressed', String(marked));
-  checkBingo();
-}
-function checkBingo() {
-  const marked = Array.from(document.querySelectorAll('.bingo-cell'), c => c.classList.contains('marked'));
-  const wins = [
-    [0,1,2,3,4], [5,6,7,8,9], [10,11,12,13,14], [15,16,17,18,19], [20,21,22,23,24],
-    [0,5,10,15,20], [1,6,11,16,21], [2,7,12,17,22], [3,8,13,18,23], [4,9,14,19,24],
-    [0,6,12,18,24], [4,8,12,16,20]
-  ];
-  document.getElementById('win-banner').hidden = !wins.some(pattern => pattern.every(idx => marked[idx]));
-}
-applyAutoTheme();
-</script>
-</body>
-</html>
+<footer><span class="footer-brand">SQUAREWATCH<span>■</span></span><span>A little cult. A little comfort. All year.</span><details><summary>Calendar sources &amp; project</summary><div class="source-links"><a href="https://www.canada.ca/en/services/jobs/workplace/federal-labour-standards/vacations-holidays.html">Federal holidays</a><a href="https://www.gnb.ca/en/topic/jobs-workplaces/labour-market-workforce/employment-standards/holiday-vacation.html">NB public holidays</a><a href="https://www2.gnb.ca/content/gnb/en/departments/elg/local_government/content/governance/content/days_of_rest_act.html">NB days of rest</a><a href="https://www2.gnb.ca/content/gnb/en/departments/finance/human_resources/content/policies_and_guidelines/leave_policies/statutory_public_holidays.html">NB public service</a><a href="https://www.canada.ca/en/revenue-agency/services/tax/public-holidays.html">Federal calendar dates</a><a href="https://www.canada.ca/en/canadian-heritage/campaigns/celebrate-canada/acadian-day.html">Acadian Day</a><a href="https://github.com/polerix/Squarewatch">GitHub project</a></div></details></footer>
+</div>
+</body></html>

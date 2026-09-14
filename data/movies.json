@@ -1,0 +1,450 @@
+[
+  {
+    "id": "psycho",
+    "title": "Psycho",
+    "year": 1960,
+    "source": "justwatch",
+    "url": "https://www.justwatch.com/ca/movie/psycho-1960",
+    "label": "Good tier",
+    "description": "A motel, a missing guest, and a masterclass in suspense."
+  },
+  {
+    "id": "troll",
+    "title": "Troll 2",
+    "year": 1990,
+    "source": "justwatch",
+    "url": "https://www.justwatch.com/ca/movie/troll-2",
+    "label": "Cult tier",
+    "description": "The original Nilbog nightmare. Bring snacks; avoid the green ones."
+  },
+  {
+    "id": "things",
+    "title": "Things",
+    "year": 1989,
+    "source": "justwatch",
+    "url": "https://www.justwatch.com/ca/movie/things",
+    "label": "Rare / outrageous",
+    "description": "A Canadian shot-on-video oddity for the very adventurous."
+  },
+  {
+    "id": "thing",
+    "title": "The Thing",
+    "year": 1982,
+    "source": "justwatch",
+    "url": "https://www.justwatch.com/ca/movie/the-thing-1982",
+    "label": "Good tier",
+    "description": "An Antarctic outpost becomes a pressure cooker of paranoia."
+  },
+  {
+    "id": "trick",
+    "title": "Trick ’r Treat",
+    "year": 2007,
+    "source": "justwatch",
+    "url": "https://www.justwatch.com/ca/movie/trick-r-treat",
+    "label": "Cult tier",
+    "description": "Interlocking Halloween tales with a very strict code of conduct."
+  },
+  {
+    "id": "halloween",
+    "title": "Halloween",
+    "year": 1978,
+    "source": "justwatch",
+    "url": "https://www.justwatch.com/ca/movie/halloween-1978",
+    "label": "Good tier",
+    "description": "A quiet neighbourhood. One mask. An unforgettable October night."
+  },
+  {
+    "id": "elf",
+    "title": "Elf",
+    "year": 2003,
+    "source": "justwatch",
+    "url": "https://www.justwatch.com/ca/movie/elf",
+    "label": "Festive favourite",
+    "description": "Big-hearted holiday chaos, with an extra helping of syrup."
+  },
+  {
+    "id": "homealone",
+    "title": "Home Alone",
+    "year": 1990,
+    "source": "justwatch",
+    "url": "https://www.justwatch.com/ca/movie/home-alone",
+    "label": "Festive favourite",
+    "description": "A forgotten kid turns Christmas break into home defence."
+  },
+  {
+    "id": "blackchristmas",
+    "title": "Black Christmas",
+    "year": 1974,
+    "source": "justwatch",
+    "url": "https://www.justwatch.com/ca/movie/black-christmas",
+    "label": "After dark",
+    "description": "Canadian holiday horror with a chilling phone line."
+  },
+  {
+    "id": "wonderful",
+    "title": "It’s a Wonderful Life",
+    "year": 1946,
+    "source": "justwatch",
+    "url": "https://www.justwatch.com/ca/movie/its-a-wonderful-life",
+    "label": "Classic",
+    "description": "A Christmas Eve reminder of the lives one person can touch."
+  },
+  {
+    "id": "muppets",
+    "title": "The Muppet Christmas Carol",
+    "year": 1992,
+    "source": "justwatch",
+    "url": "https://www.justwatch.com/ca/movie/the-muppet-christmas-carol",
+    "label": "Family night",
+    "description": "Dickens, songs, and a very expressive frog."
+  },
+  {
+    "id": "harry",
+    "title": "When Harry Met Sally…",
+    "year": 1989,
+    "source": "justwatch",
+    "url": "https://www.justwatch.com/ca/movie/when-harry-met-sally",
+    "label": "Midnight pick",
+    "description": "Friendship and romance find their way to a New Year’s countdown."
+  },
+  {
+    "id": "apartment",
+    "title": "The Apartment",
+    "year": 1960,
+    "source": "justwatch",
+    "url": "https://www.justwatch.com/ca/movie/the-apartment",
+    "label": "Classic",
+    "description": "Office politics and lonely hearts meet over the holidays."
+  },
+  {
+    "id": "trading",
+    "title": "Trading Places",
+    "year": 1983,
+    "source": "justwatch",
+    "url": "https://www.justwatch.com/ca/movie/trading-places",
+    "label": "Cult comedy",
+    "description": "A holiday wager turns two lives upside down."
+  },
+  {
+    "id": "nye",
+    "title": "New Year’s Eve",
+    "year": 2011,
+    "source": "justwatch",
+    "url": "https://www.justwatch.com/ca/movie/new-years-eve",
+    "label": "Countdown comedy",
+    "description": "Intersecting stories on the way to midnight in New York."
+  },
+  {
+    "id": "paddington",
+    "title": "Paddington 2",
+    "year": 2017,
+    "source": "justwatch",
+    "url": "https://www.justwatch.com/ca/movie/paddington-2",
+    "label": "Family night",
+    "description": "A stolen pop-up book puts kindness to the test."
+  },
+  {
+    "id": "fox",
+    "title": "Fantastic Mr. Fox",
+    "year": 2009,
+    "source": "justwatch",
+    "url": "https://www.justwatch.com/ca/movie/fantastic-mr-fox",
+    "label": "Family night",
+    "description": "A handmade autumn world full of feasts and family trouble."
+  },
+  {
+    "id": "mitchells",
+    "title": "The Mitchells vs. the Machines",
+    "year": 2021,
+    "source": "justwatch",
+    "url": "https://www.justwatch.com/ca/movie/connected-2020",
+    "label": "Family night",
+    "description": "A gloriously awkward family road trip meets a robot uprising."
+  },
+  {
+    "id": "hop",
+    "title": "Hop",
+    "year": 2011,
+    "source": "justwatch",
+    "url": "https://www.justwatch.com/ca/movie/hop",
+    "label": "Spring pick",
+    "description": "An Easter bunny with rock-star ambitions heads to Hollywood."
+  },
+  {
+    "id": "rabbit",
+    "title": "Peter Rabbit",
+    "year": 2018,
+    "source": "justwatch",
+    "url": "https://www.justwatch.com/ca/movie/peter-rabbit",
+    "label": "Spring pick",
+    "description": "A garden feud with a mischievous, long-eared leading man."
+  },
+  {
+    "id": "benhur",
+    "title": "Ben-Hur",
+    "year": 1959,
+    "source": "justwatch",
+    "url": "https://www.justwatch.com/ca/movie/ben-hur",
+    "label": "Epic",
+    "description": "A sweeping historical drama of betrayal, endurance, and forgiveness."
+  },
+  {
+    "id": "egypt",
+    "title": "The Prince of Egypt",
+    "year": 1998,
+    "source": "justwatch",
+    "url": "https://www.justwatch.com/ca/movie/the-prince-of-egypt",
+    "label": "Animation",
+    "description": "An animated musical retelling of the story of Moses."
+  },
+  {
+    "id": "easterparade",
+    "title": "Easter Parade",
+    "year": 1948,
+    "source": "justwatch",
+    "url": "https://www.justwatch.com/ca/movie/easter-parade",
+    "label": "Classic musical",
+    "description": "Irving Berlin songs and a springtime song-and-dance partnership."
+  },
+  {
+    "id": "victoria",
+    "title": "The Young Victoria",
+    "year": 2009,
+    "source": "justwatch",
+    "url": "https://www.justwatch.com/ca/movie/the-young-victoria",
+    "label": "Period drama",
+    "description": "A young queen finds her footing under intense scrutiny."
+  },
+  {
+    "id": "kingsspeech",
+    "title": "The King’s Speech",
+    "year": 2010,
+    "source": "justwatch",
+    "url": "https://www.justwatch.com/ca/movie/the-kings-speech",
+    "label": "Period drama",
+    "description": "An unlikely friendship behind a royal public voice."
+  },
+  {
+    "id": "queen",
+    "title": "The Queen",
+    "year": 2006,
+    "source": "justwatch",
+    "url": "https://www.justwatch.com/ca/movie/the-queen",
+    "label": "Period drama",
+    "description": "A portrait of monarchy in a moment of public grief."
+  },
+  {
+    "id": "boncop",
+    "title": "Bon Cop Bad Cop",
+    "year": 2006,
+    "source": "justwatch",
+    "url": "https://www.justwatch.com/ca/movie/bon-cop-bad-cop",
+    "label": "Canadian pick",
+    "description": "Two police officers bridge a language divide with plenty of friction.",
+    "aliases": [
+      "Good Cop, Bad Cop"
+    ]
+  },
+  {
+    "id": "oneweek",
+    "title": "One Week",
+    "year": 2008,
+    "source": "justwatch",
+    "url": "https://www.justwatch.com/ca/movie/one-week-2008",
+    "label": "Canadian pick",
+    "description": "A motorcycle journey across Canada in search of perspective."
+  },
+  {
+    "id": "seduction",
+    "title": "The Grand Seduction",
+    "year": 2013,
+    "source": "justwatch",
+    "url": "https://www.justwatch.com/ca/movie/the-grand-seduction",
+    "label": "Atlantic pick",
+    "description": "A small harbour puts on a very elaborate welcome.",
+    "sourceYear": 2014
+  },
+  {
+    "id": "stillmine",
+    "title": "Still Mine",
+    "year": 2012,
+    "source": "justwatch",
+    "url": "https://www.justwatch.com/ca/movie/still-mine",
+    "label": "New Brunswick story",
+    "description": "A New Brunswick couple fights to build a home for their changing lives."
+  },
+  {
+    "id": "bay",
+    "title": "The Bay of Love and Sorrows",
+    "year": 2002,
+    "source": "justwatch",
+    "url": "https://www.justwatch.com/ca/movie/the-bay-of-love-and-sorrows",
+    "label": "New Brunswick story",
+    "description": "Idealism and manipulation collide in a Miramichi-set tragedy."
+  },
+  {
+    "id": "indianhorse",
+    "title": "Indian Horse",
+    "year": 2018,
+    "source": "justwatch",
+    "url": "https://www.justwatch.com/ca/movie/indian-horse",
+    "label": "Indigenous stories",
+    "description": "A residential-school survivor carries trauma and talent onto the ice."
+  },
+  {
+    "id": "rhymes",
+    "title": "Rhymes for Young Ghouls",
+    "year": 2013,
+    "source": "justwatch",
+    "url": "https://www.justwatch.com/ca/movie/rhymes-for-young-ghouls",
+    "label": "Indigenous stories",
+    "description": "Jeff Barnaby’s fierce story of resistance and a Mi’gmaq teenager."
+  },
+  {
+    "id": "beans",
+    "title": "Beans",
+    "year": 2021,
+    "source": "justwatch",
+    "url": "https://www.justwatch.com/ca/movie/beans",
+    "label": "Indigenous stories",
+    "description": "A Mohawk girl comes of age during the 1990 Oka Crisis."
+  },
+  {
+    "id": "angryinuk",
+    "title": "Angry Inuk",
+    "year": 2016,
+    "source": "justwatch",
+    "url": "https://www.justwatch.com/ca/movie/angry-inuk",
+    "label": "Documentary",
+    "description": "Inuit voices challenge the assumptions surrounding seal hunting."
+  },
+  {
+    "id": "ninefive",
+    "title": "9 to 5",
+    "year": 1980,
+    "source": "justwatch",
+    "url": "https://www.justwatch.com/ca/movie/nine-to-five",
+    "label": "Workplace comedy",
+    "description": "Three colleagues decide their terrible boss has had his turn.",
+    "aliases": [
+      "Nine to Five"
+    ]
+  },
+  {
+    "id": "pride",
+    "title": "Pride",
+    "year": 2014,
+    "source": "justwatch",
+    "url": "https://www.justwatch.com/ca/movie/pride",
+    "label": "Solidarity",
+    "description": "Queer activists and striking miners form an unlikely alliance."
+  },
+  {
+    "id": "sorry",
+    "title": "Sorry to Bother You",
+    "year": 2018,
+    "source": "justwatch",
+    "url": "https://www.justwatch.com/ca/movie/sorry-to-bother-you",
+    "label": "After dark",
+    "description": "A surreal satire of selling out and the cost of getting ahead."
+  },
+  {
+    "id": "road",
+    "title": "Goin’ Down the Road",
+    "year": 1970,
+    "source": "justwatch",
+    "url": "https://www.justwatch.com/ca/movie/goin-down-the-road",
+    "label": "Canadian classic",
+    "description": "Two Maritimers chase work and a fresh start in Toronto."
+  },
+  {
+    "id": "planes",
+    "title": "Planes, Trains and Automobiles",
+    "year": 1987,
+    "source": "justwatch",
+    "url": "https://www.justwatch.com/ca/movie/planes-trains-and-automobiles",
+    "label": "Thanksgiving pick",
+    "description": "An American Thanksgiving journey; the travel chaos works in October, too."
+  },
+  {
+    "id": "april",
+    "title": "Pieces of April",
+    "year": 2003,
+    "source": "justwatch",
+    "url": "https://www.justwatch.com/ca/movie/pieces-of-april",
+    "label": "Thanksgiving pick",
+    "description": "A small apartment, a difficult family, and one ambitious dinner."
+  },
+  {
+    "id": "holidays",
+    "title": "Home for the Holidays",
+    "year": 1995,
+    "source": "justwatch",
+    "url": "https://www.justwatch.com/ca/movie/home-for-the-holidays",
+    "label": "Thanksgiving pick",
+    "description": "A family reunion serves up affection and plenty of complications."
+  },
+  {
+    "id": "passchendaele",
+    "title": "Passchendaele",
+    "year": 2008,
+    "source": "justwatch",
+    "url": "https://www.justwatch.com/ca/movie/passchendaele",
+    "label": "Canadian remembrance",
+    "description": "A Canadian war drama about love, service, and the First World War."
+  },
+  {
+    "id": "hyena",
+    "title": "Hyena Road",
+    "year": 2015,
+    "source": "justwatch",
+    "url": "https://www.justwatch.com/ca/movie/hyena-road",
+    "label": "Canadian remembrance",
+    "description": "A Canadian military drama set during the war in Afghanistan."
+  },
+  {
+    "id": "1917",
+    "title": "1917",
+    "year": 2019,
+    "source": "justwatch",
+    "url": "https://www.justwatch.com/ca/movie/1917",
+    "label": "Remembrance",
+    "description": "Two soldiers carry a message across the First World War’s front lines."
+  },
+  {
+    "id": "bestyears",
+    "title": "The Best Years of Our Lives",
+    "year": 1946,
+    "source": "justwatch",
+    "url": "https://www.justwatch.com/ca/movie/the-best-years-of-our-lives",
+    "label": "After the war",
+    "description": "Three veterans navigate the difficult return to civilian life."
+  },
+  {
+    "id": "acadia",
+    "title": "Acadia Acadia?!?",
+    "year": 1971,
+    "source": "nfb",
+    "url": "https://www.nfb.ca/film/acadia_acadia/",
+    "label": "Acadian documentary",
+    "description": "Student voices and language rights in late-1960s Moncton."
+  },
+  {
+    "id": "evangeline",
+    "title": "Evangeline’s Quest",
+    "year": 1996,
+    "source": "nfb",
+    "url": "https://www.nfb.ca/film/evangelines_quest/",
+    "label": "Acadian documentary",
+    "description": "A journey through Acadian memory and the legend of Evangeline."
+  },
+  {
+    "id": "edith",
+    "title": "Edith Butler — Daughter of the Wind and Acadie",
+    "year": 2008,
+    "source": "nfb",
+    "url": "https://www.nfb.ca/film/edith_butler_daughter_of_the_wind/",
+    "label": "Acadian music",
+    "description": "An Acadian musical voice, on stage and in conversation."
+  }
+]
