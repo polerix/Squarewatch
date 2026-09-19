@@ -17,7 +17,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v7
       - name: Validate calendar and Bingo
         run: node --test tests/core.test.mjs
       - name: Validate availability parser
