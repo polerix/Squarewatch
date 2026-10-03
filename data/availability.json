@@ -2,8 +2,8 @@
   "country": "CA",
   "movies": {
     "psycho": {
-      "checkedAt": "2026-10-02T12:44:37.911670Z",
-      "sourceUpdatedAt": "2026-10-01T13:22:42.980306Z",
+      "checkedAt": "2026-10-03T11:44:36.753693Z",
+      "sourceUpdatedAt": "2026-09-27T09:01:53.256807Z",
       "source": "justwatch",
       "url": "https://www.justwatch.com/ca/movie/psycho-1960",
       "offers": [
@@ -16,21 +16,6 @@
           "provider": "Crave Amazon Channel",
           "type": "Subscription",
           "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e8a724b3-4942-43e6-b228-75a0235f6722"
-        },
-        {
-          "provider": "Hollywood Suite",
-          "type": "Subscription",
-          "url": "https://hollywoodsuite.ca/movies/psycho"
-        },
-        {
-          "provider": "Hollywood Suite Amazon Channel",
-          "type": "Subscription",
-          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.76a9f7b3-cdc0-bdd0-6a22-e27e4197ddfd"
-        },
-        {
-          "provider": "Tubi TV",
-          "type": "Stream",
-          "url": "https://tubitv.com/movies/660351"
         },
         {
           "provider": "Amazon Video",
@@ -65,8 +50,8 @@
       ]
     },
     "troll": {
-      "checkedAt": "2026-10-02T12:44:37.911670Z",
-      "sourceUpdatedAt": "2026-10-01T10:55:45.731426Z",
+      "checkedAt": "2026-10-03T11:44:36.753693Z",
+      "sourceUpdatedAt": "2026-10-02T11:54:56.290416Z",
       "source": "justwatch",
       "url": "https://www.justwatch.com/ca/movie/troll-2",
       "offers": [
@@ -103,8 +88,8 @@
       ]
     },
     "things": {
-      "checkedAt": "2026-10-02T12:44:37.911670Z",
-      "sourceUpdatedAt": "2026-09-30T08:09:03.85428Z",
+      "checkedAt": "2026-10-03T11:44:36.753693Z",
+      "sourceUpdatedAt": "2026-10-01T21:20:19.877335Z",
       "source": "justwatch",
       "url": "https://www.justwatch.com/ca/movie/things",
       "offers": [
@@ -151,8 +136,8 @@
       ]
     },
     "thing": {
-      "checkedAt": "2026-10-02T12:44:37.911670Z",
-      "sourceUpdatedAt": "2026-10-01T09:28:50.51853Z",
+      "checkedAt": "2026-10-03T11:44:36.753693Z",
+      "sourceUpdatedAt": "2026-10-02T03:26:55.971708Z",
       "source": "justwatch",
       "url": "https://www.justwatch.com/ca/movie/the-thing-1982",
       "offers": [
@@ -224,8 +209,8 @@
       ]
     },
     "trick": {
-      "checkedAt": "2026-10-02T12:44:37.911670Z",
-      "sourceUpdatedAt": "2026-10-01T05:21:27.07662Z",
+      "checkedAt": "2026-10-03T11:44:36.753693Z",
+      "sourceUpdatedAt": "2026-09-27T09:02:33.82505Z",
       "source": "justwatch",
       "url": "https://www.justwatch.com/ca/movie/trick-r-treat",
       "offers": [
@@ -262,15 +247,15 @@
       ]
     },
     "halloween": {
-      "checkedAt": "2026-10-02T12:44:37.911670Z",
-      "sourceUpdatedAt": "2026-10-02T01:30:38.179109Z",
+      "checkedAt": "2026-10-03T11:44:36.753693Z",
+      "sourceUpdatedAt": "2026-09-27T09:02:19.767911Z",
       "source": "justwatch",
       "url": "https://www.justwatch.com/ca/movie/halloween-1978",
       "offers": [
         {
           "provider": "AMC Plus Apple TV channel",
           "type": "Subscription",
-          "url": "https://tv.apple.com/ca/movie/halloween/umc.cmc.3ucmuzhhu97vky5ss9shi57ba?at=1000l3V2&ct=app_tvplus&itscg=30200&itsct=justwatch_tv"
+          "url": "https://tv.apple.com"
         },
         {
           "provider": "AMC+",
@@ -315,8 +300,8 @@
       ]
     },
     "elf": {
-      "checkedAt": "2026-10-02T12:44:37.911670Z",
-      "sourceUpdatedAt": "2026-09-27T09:02:44.427919Z",
+      "checkedAt": "2026-10-03T11:44:36.753693Z",
+      "sourceUpdatedAt": "2026-10-01T13:38:16.73985Z",
       "source": "justwatch",
       "url": "https://www.justwatch.com/ca/movie/elf",
       "offers": [
@@ -363,8 +348,8 @@
       ]
     },
     "homealone": {
-      "checkedAt": "2026-10-02T12:44:37.911670Z",
-      "sourceUpdatedAt": "2026-10-01T13:20:37.873013Z",
+      "checkedAt": "2026-10-03T11:44:36.753693Z",
+      "sourceUpdatedAt": "2026-09-27T09:02:44.814805Z",
       "source": "justwatch",
       "url": "https://www.justwatch.com/ca/movie/home-alone",
       "offers": [
@@ -406,8 +391,8 @@
       ]
     },
     "blackchristmas": {
-      "checkedAt": "2026-10-02T12:44:37.911670Z",
-      "sourceUpdatedAt": "2026-10-01T15:10:09.070213Z",
+      "checkedAt": "2026-10-03T11:44:36.753693Z",
+      "sourceUpdatedAt": "2026-10-02T08:59:02.553922Z",
       "source": "justwatch",
       "url": "https://www.justwatch.com/ca/movie/black-christmas",
       "offers": [
@@ -464,8 +449,8 @@
       ]
     },
     "wonderful": {
-      "checkedAt": "2026-10-02T12:44:37.911670Z",
-      "sourceUpdatedAt": "2026-10-01T06:16:08.571143Z",
+      "checkedAt": "2026-10-03T11:44:36.753693Z",
+      "sourceUpdatedAt": "2026-10-02T00:20:02.56006Z",
       "source": "justwatch",
       "url": "https://www.justwatch.com/ca/movie/its-a-wonderful-life",
       "offers": [
@@ -527,8 +512,8 @@
       ]
     },
     "muppets": {
-      "checkedAt": "2026-10-02T12:44:37.911670Z",
-      "sourceUpdatedAt": "2026-10-01T14:05:02.647526Z",
+      "checkedAt": "2026-10-03T11:44:36.753693Z",
+      "sourceUpdatedAt": "2026-10-02T07:33:40.828605Z",
       "source": "justwatch",
       "url": "https://www.justwatch.com/ca/movie/the-muppet-christmas-carol",
       "offers": [
@@ -570,15 +555,15 @@
       ]
     },
     "harry": {
-      "checkedAt": "2026-10-02T12:44:37.911670Z",
-      "sourceUpdatedAt": "2026-10-01T05:21:15.574189Z",
+      "checkedAt": "2026-10-03T11:44:36.753693Z",
+      "sourceUpdatedAt": "2026-10-02T00:18:06.826663Z",
       "source": "justwatch",
       "url": "https://www.justwatch.com/ca/movie/when-harry-met-sally",
       "offers": [
         {
           "provider": "Amazon Video",
           "type": "Buy",
-          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.606ee96e-ef6a-414a-9800-3ea5aa66982d"
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ed63c965-c434-44ac-8e84-c9827c58aead"
         },
         {
           "provider": "Apple TV Store",
@@ -593,8 +578,8 @@
       ]
     },
     "apartment": {
-      "checkedAt": "2026-10-02T12:44:37.911670Z",
-      "sourceUpdatedAt": "2026-10-01T10:56:14.739499Z",
+      "checkedAt": "2026-10-03T11:44:36.753693Z",
+      "sourceUpdatedAt": "2026-09-27T03:46:44.340216Z",
       "source": "justwatch",
       "url": "https://www.justwatch.com/ca/movie/the-apartment",
       "offers": [
@@ -602,11 +587,6 @@
           "provider": "MGM Amazon Channel",
           "type": "Subscription",
           "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cb7d6bb5-084a-4190-a392-a9b38e521eb3"
-        },
-        {
-          "provider": "Hoopla",
-          "type": "Library access",
-          "url": "https://www.hoopladigital.com/title/11805909"
         },
         {
           "provider": "Tubi TV",
@@ -646,11 +626,21 @@
       ]
     },
     "trading": {
-      "checkedAt": "2026-10-02T12:44:37.911670Z",
-      "sourceUpdatedAt": "2026-10-01T08:55:44.930505Z",
+      "checkedAt": "2026-10-03T11:44:36.753693Z",
+      "sourceUpdatedAt": "2026-09-27T11:03:32.260701Z",
       "source": "justwatch",
       "url": "https://www.justwatch.com/ca/movie/trading-places",
       "offers": [
+        {
+          "provider": "Netflix",
+          "type": "Subscription",
+          "url": "https://www.netflix.com/title/60011484"
+        },
+        {
+          "provider": "Netflix Standard with Ads",
+          "type": "Subscription",
+          "url": "https://www.netflix.com/title/60011484"
+        },
         {
           "provider": "Super Channel Amazon Channel",
           "type": "Subscription",
@@ -699,8 +689,8 @@
       ]
     },
     "nye": {
-      "checkedAt": "2026-10-02T12:44:37.911670Z",
-      "sourceUpdatedAt": "2026-10-01T05:20:46.900624Z",
+      "checkedAt": "2026-10-03T11:44:36.753693Z",
+      "sourceUpdatedAt": "2026-09-27T09:01:48.601697Z",
       "source": "justwatch",
       "url": "https://www.justwatch.com/ca/movie/new-years-eve",
       "offers": [
@@ -752,8 +742,8 @@
       ]
     },
     "paddington": {
-      "checkedAt": "2026-10-02T12:44:37.911670Z",
-      "sourceUpdatedAt": "2026-10-02T01:48:20.611126Z",
+      "checkedAt": "2026-10-03T11:44:36.753693Z",
+      "sourceUpdatedAt": "2026-10-01T07:25:37.352019Z",
       "source": "justwatch",
       "url": "https://www.justwatch.com/ca/movie/paddington-2",
       "offers": [
@@ -805,8 +795,8 @@
       ]
     },
     "fox": {
-      "checkedAt": "2026-10-02T12:44:37.911670Z",
-      "sourceUpdatedAt": "2026-09-27T09:01:42.105464Z",
+      "checkedAt": "2026-10-03T11:44:36.753693Z",
+      "sourceUpdatedAt": "2026-10-02T15:57:42.106084Z",
       "source": "justwatch",
       "url": "https://www.justwatch.com/ca/movie/fantastic-mr-fox",
       "offers": [
@@ -863,8 +853,8 @@
       ]
     },
     "mitchells": {
-      "checkedAt": "2026-10-02T12:44:37.911670Z",
-      "sourceUpdatedAt": "2026-10-01T10:39:00.426993Z",
+      "checkedAt": "2026-10-03T11:44:36.753693Z",
+      "sourceUpdatedAt": "2026-10-02T08:51:42.785342Z",
       "source": "justwatch",
       "url": "https://www.justwatch.com/ca/movie/connected-2020",
       "offers": [
@@ -891,7 +881,7 @@
         {
           "provider": "CosmoGo",
           "type": "Rent",
-          "url": "https://www.cosmogo.com/#!/hero/cp814381"
+          "url": "https://www.cosmogo.com/#!/hero/cp814380"
         },
         {
           "provider": "Amazon Video",
@@ -911,8 +901,8 @@
       ]
     },
     "hop": {
-      "checkedAt": "2026-10-02T12:44:37.911670Z",
-      "sourceUpdatedAt": "2026-10-01T08:45:52.292285Z",
+      "checkedAt": "2026-10-03T11:44:36.753693Z",
+      "sourceUpdatedAt": "2026-10-02T07:19:27.016145Z",
       "source": "justwatch",
       "url": "https://www.justwatch.com/ca/movie/hop",
       "offers": [
@@ -969,8 +959,8 @@
       ]
     },
     "rabbit": {
-      "checkedAt": "2026-10-02T12:44:37.911670Z",
-      "sourceUpdatedAt": "2026-10-01T05:21:38.566597Z",
+      "checkedAt": "2026-10-03T11:44:36.753693Z",
+      "sourceUpdatedAt": "2026-10-01T23:56:39.83042Z",
       "source": "justwatch",
       "url": "https://www.justwatch.com/ca/movie/peter-rabbit",
       "offers": [
@@ -1027,8 +1017,8 @@
       ]
     },
     "benhur": {
-      "checkedAt": "2026-10-02T12:44:37.911670Z",
-      "sourceUpdatedAt": "2026-10-01T11:42:48.733049Z",
+      "checkedAt": "2026-10-03T11:44:36.753693Z",
+      "sourceUpdatedAt": "2026-10-02T00:29:00.623644Z",
       "source": "justwatch",
       "url": "https://www.justwatch.com/ca/movie/ben-hur",
       "offers": [
@@ -1070,8 +1060,8 @@
       ]
     },
     "egypt": {
-      "checkedAt": "2026-10-02T12:44:37.911670Z",
-      "sourceUpdatedAt": "2026-10-01T08:51:59.957818Z",
+      "checkedAt": "2026-10-03T11:44:36.753693Z",
+      "sourceUpdatedAt": "2026-09-27T08:38:02.697813Z",
       "source": "justwatch",
       "url": "https://www.justwatch.com/ca/movie/the-prince-of-egypt",
       "offers": [
@@ -1101,11 +1091,6 @@
           "url": "https://tv.apple.com/ca/movie/the-prince-of-egypt/umc.cmc.4d0lq90t403szfg0tbg9t9s20?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A1337777659"
         },
         {
-          "provider": "CosmoGo",
-          "type": "Rent",
-          "url": "https://www.cosmogo.com/#!/hero/cp124955"
-        },
-        {
           "provider": "Amazon Video",
           "type": "Buy",
           "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.44b4ce8e-4093-a196-ad1d-24ecf26178a1"
@@ -1114,17 +1099,12 @@
           "provider": "Apple TV Store",
           "type": "Buy",
           "url": "https://tv.apple.com/ca/movie/the-prince-of-egypt/umc.cmc.4d0lq90t403szfg0tbg9t9s20?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A1337777659"
-        },
-        {
-          "provider": "CosmoGo",
-          "type": "Buy",
-          "url": "https://www.cosmogo.com/#!/hero/cp124955"
         }
       ]
     },
     "easterparade": {
-      "checkedAt": "2026-10-02T12:44:37.911670Z",
-      "sourceUpdatedAt": "2026-10-01T02:27:38.54401Z",
+      "checkedAt": "2026-10-03T11:44:36.753693Z",
+      "sourceUpdatedAt": "2026-10-01T21:59:33.021804Z",
       "source": "justwatch",
       "url": "https://www.justwatch.com/ca/movie/easter-parade",
       "offers": [
@@ -1151,8 +1131,8 @@
       ]
     },
     "victoria": {
-      "checkedAt": "2026-10-02T12:44:37.911670Z",
-      "sourceUpdatedAt": "2026-09-27T09:01:59.940508Z",
+      "checkedAt": "2026-10-03T11:44:36.753693Z",
+      "sourceUpdatedAt": "2026-10-01T05:20:59.73594Z",
       "source": "justwatch",
       "url": "https://www.justwatch.com/ca/movie/the-young-victoria",
       "offers": [
@@ -1167,7 +1147,7 @@
           "url": "https://tv.apple.com"
         },
         {
-          "provider": "Lionsgate+ Amazon Channels",
+          "provider": "Lionsgate+ Amazon Channel",
           "type": "Subscription",
           "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bea9f697-9feb-d56e-9d49-81a3b052e152"
         },
@@ -1209,8 +1189,8 @@
       ]
     },
     "kingsspeech": {
-      "checkedAt": "2026-10-02T12:44:37.911670Z",
-      "sourceUpdatedAt": "2026-10-01T05:20:54.904138Z",
+      "checkedAt": "2026-10-03T11:44:36.753693Z",
+      "sourceUpdatedAt": "2026-10-02T09:00:23.994491Z",
       "source": "justwatch",
       "url": "https://www.justwatch.com/ca/movie/the-kings-speech",
       "offers": [
@@ -1228,6 +1208,11 @@
           "provider": "Lionsgate+ Amazon Channel",
           "type": "Subscription",
           "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9155d0f6-09c9-409a-afe3-0a5e26eed471"
+        },
+        {
+          "provider": "Plex Live TV",
+          "type": "Stream",
+          "url": "https://watch.plex.tv/live-tv/channel/moviesphere-6?autoplay=1&utm_content=6663510e7ce166787145c6a9&utm_medium=deeplink&utm_source=justWatch-linear-catalog"
         },
         {
           "provider": "Amazon Video",
@@ -1262,8 +1247,8 @@
       ]
     },
     "queen": {
-      "checkedAt": "2026-10-02T12:44:37.911670Z",
-      "sourceUpdatedAt": "2026-10-01T05:20:49.234849Z",
+      "checkedAt": "2026-10-03T11:44:36.753693Z",
+      "sourceUpdatedAt": "2026-09-26T14:57:22.062701Z",
       "source": "justwatch",
       "url": "https://www.justwatch.com/ca/movie/the-queen",
       "offers": [
@@ -1271,6 +1256,11 @@
           "provider": "Crave",
           "type": "Stream",
           "url": "https://www.crave.ca/en/movie/the-queen-58623"
+        },
+        {
+          "provider": "Amazon Video",
+          "type": "Rent",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9f82bc2a-211a-47a3-a955-d17f2146c538"
         },
         {
           "provider": "Apple TV Store",
@@ -1281,6 +1271,11 @@
           "provider": "CosmoGo",
           "type": "Rent",
           "url": "https://www.cosmogo.com/#!/hero/cp123342"
+        },
+        {
+          "provider": "Amazon Video",
+          "type": "Buy",
+          "url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9f82bc2a-211a-47a3-a955-d17f2146c538"
         },
         {
           "provider": "Apple TV Store",
@@ -1295,8 +1290,8 @@
       ]
     },
     "boncop": {
-      "checkedAt": "2026-10-02T12:44:37.911670Z",
-      "sourceUpdatedAt": "2026-10-01T05:21:21.468941Z",
+      "checkedAt": "2026-10-03T11:44:36.753693Z",
+      "sourceUpdatedAt": "2026-10-02T00:17:48.281415Z",
       "source": "justwatch",
       "url": "https://www.justwatch.com/ca/movie/bon-cop-bad-cop",
       "offers": [
@@ -1348,8 +1343,8 @@
       ]
     },
     "oneweek": {
-      "checkedAt": "2026-10-02T12:44:37.911670Z",
-      "sourceUpdatedAt": "2026-09-30T07:55:51.551906Z",
+      "checkedAt": "2026-10-03T11:44:36.753693Z",
+      "sourceUpdatedAt": "2026-10-01T21:18:00.651343Z",
       "source": "justwatch",
       "url": "https://www.justwatch.com/ca/movie/one-week-2008",
       "offers": [
@@ -1386,8 +1381,8 @@
       ]
     },
     "seduction": {
-      "checkedAt": "2026-10-02T12:44:37.911670Z",
-      "sourceUpdatedAt": "2026-10-01T05:21:02.57169Z",
+      "checkedAt": "2026-10-03T11:44:36.753693Z",
+      "sourceUpdatedAt": "2026-10-01T23:56:02.505096Z",
       "source": "justwatch",
       "url": "https://www.justwatch.com/ca/movie/the-grand-seduction",
       "offers": [
@@ -1449,8 +1444,8 @@
       ]
     },
     "stillmine": {
-      "checkedAt": "2026-10-02T12:44:37.911670Z",
-      "sourceUpdatedAt": "2026-10-01T06:13:08.226051Z",
+      "checkedAt": "2026-10-03T11:44:36.753693Z",
+      "sourceUpdatedAt": "2026-10-02T00:21:13.053719Z",
       "source": "justwatch",
       "url": "https://www.justwatch.com/ca/movie/still-mine",
       "offers": [
@@ -1462,15 +1457,15 @@
       ]
     },
     "bay": {
-      "checkedAt": "2026-10-02T12:44:37.911670Z",
+      "checkedAt": "2026-10-03T11:44:36.753693Z",
       "sourceUpdatedAt": null,
       "source": "justwatch",
       "url": "https://www.justwatch.com/ca/movie/the-bay-of-love-and-sorrows",
       "offers": []
     },
     "indianhorse": {
-      "checkedAt": "2026-10-02T12:44:37.911670Z",
-      "sourceUpdatedAt": "2026-10-01T07:25:26.492798Z",
+      "checkedAt": "2026-10-03T11:44:36.753693Z",
+      "sourceUpdatedAt": "2026-10-02T00:19:25.623784Z",
       "source": "justwatch",
       "url": "https://www.justwatch.com/ca/movie/indian-horse",
       "offers": [
@@ -1527,8 +1522,8 @@
       ]
     },
     "rhymes": {
-      "checkedAt": "2026-10-02T12:44:37.911670Z",
-      "sourceUpdatedAt": "2026-10-01T09:31:43.804243Z",
+      "checkedAt": "2026-10-03T11:44:36.753693Z",
+      "sourceUpdatedAt": "2026-10-02T03:25:25.708126Z",
       "source": "justwatch",
       "url": "https://www.justwatch.com/ca/movie/rhymes-for-young-ghouls",
       "offers": [
@@ -1595,8 +1590,8 @@
       ]
     },
     "beans": {
-      "checkedAt": "2026-10-02T12:44:37.911670Z",
-      "sourceUpdatedAt": "2026-09-27T08:18:56.835629Z",
+      "checkedAt": "2026-10-03T11:44:36.753693Z",
+      "sourceUpdatedAt": "2026-10-01T09:27:34.420503Z",
       "source": "justwatch",
       "url": "https://www.justwatch.com/ca/movie/beans",
       "offers": [
@@ -1643,8 +1638,8 @@
       ]
     },
     "angryinuk": {
-      "checkedAt": "2026-10-02T12:44:37.911670Z",
-      "sourceUpdatedAt": "2026-10-01T02:35:51.020175Z",
+      "checkedAt": "2026-10-03T11:44:36.753693Z",
+      "sourceUpdatedAt": "2026-09-27T09:22:17.580704Z",
       "source": "justwatch",
       "url": "https://www.justwatch.com/ca/movie/angry-inuk",
       "offers": [
@@ -1691,8 +1686,8 @@
       ]
     },
     "ninefive": {
-      "checkedAt": "2026-10-02T12:44:37.911670Z",
-      "sourceUpdatedAt": "2026-09-27T08:40:14.948684Z",
+      "checkedAt": "2026-10-03T11:44:36.753693Z",
+      "sourceUpdatedAt": "2026-10-02T08:50:43.90602Z",
       "source": "justwatch",
       "url": "https://www.justwatch.com/ca/movie/nine-to-five",
       "offers": [
@@ -1744,15 +1739,15 @@
       ]
     },
     "pride": {
-      "checkedAt": "2026-10-02T12:44:37.911670Z",
+      "checkedAt": "2026-10-03T11:44:36.753693Z",
       "sourceUpdatedAt": null,
       "source": "justwatch",
       "url": "https://www.justwatch.com/ca/movie/pride",
       "offers": []
     },
     "sorry": {
-      "checkedAt": "2026-10-02T12:44:37.911670Z",
-      "sourceUpdatedAt": "2026-10-01T05:21:31.411703Z",
+      "checkedAt": "2026-10-03T11:44:36.753693Z",
+      "sourceUpdatedAt": "2026-10-01T23:56:32.684434Z",
       "source": "justwatch",
       "url": "https://www.justwatch.com/ca/movie/sorry-to-bother-you",
       "offers": [
@@ -1779,15 +1774,15 @@
       ]
     },
     "road": {
-      "checkedAt": "2026-10-02T12:44:37.911670Z",
+      "checkedAt": "2026-10-03T11:44:36.753693Z",
       "sourceUpdatedAt": null,
       "source": "justwatch",
       "url": "https://www.justwatch.com/ca/movie/goin-down-the-road",
       "offers": []
     },
     "planes": {
-      "checkedAt": "2026-10-02T12:44:37.911670Z",
-      "sourceUpdatedAt": "2026-10-01T08:55:52.756669Z",
+      "checkedAt": "2026-10-03T11:44:36.753693Z",
+      "sourceUpdatedAt": "2026-10-02T04:07:52.535681Z",
       "source": "justwatch",
       "url": "https://www.justwatch.com/ca/movie/planes-trains-and-automobiles",
       "offers": [
@@ -1829,8 +1824,8 @@
       ]
     },
     "april": {
-      "checkedAt": "2026-10-02T12:44:37.911670Z",
-      "sourceUpdatedAt": "2026-10-01T10:55:31.235701Z",
+      "checkedAt": "2026-10-03T11:44:36.753693Z",
+      "sourceUpdatedAt": "2026-10-02T11:54:41.787801Z",
       "source": "justwatch",
       "url": "https://www.justwatch.com/ca/movie/pieces-of-april",
       "offers": [
@@ -1867,8 +1862,8 @@
       ]
     },
     "holidays": {
-      "checkedAt": "2026-10-02T12:44:37.911670Z",
-      "sourceUpdatedAt": "2026-10-01T08:55:45.421693Z",
+      "checkedAt": "2026-10-03T11:44:36.753693Z",
+      "sourceUpdatedAt": "2026-10-02T04:07:48.199281Z",
       "source": "justwatch",
       "url": "https://www.justwatch.com/ca/movie/home-for-the-holidays",
       "offers": [
@@ -1925,8 +1920,8 @@
       ]
     },
     "passchendaele": {
-      "checkedAt": "2026-10-02T12:44:37.911670Z",
-      "sourceUpdatedAt": "2026-09-27T09:02:08.93018Z",
+      "checkedAt": "2026-10-03T11:44:36.753693Z",
+      "sourceUpdatedAt": "2026-10-01T05:21:09.566195Z",
       "source": "justwatch",
       "url": "https://www.justwatch.com/ca/movie/passchendaele",
       "offers": [
@@ -1988,8 +1983,8 @@
       ]
     },
     "hyena": {
-      "checkedAt": "2026-10-02T12:44:37.911670Z",
-      "sourceUpdatedAt": "2026-09-27T09:54:57.783397Z",
+      "checkedAt": "2026-10-03T11:44:36.753693Z",
+      "sourceUpdatedAt": "2026-10-02T19:44:40.448371Z",
       "source": "justwatch",
       "url": "https://www.justwatch.com/ca/movie/hyena-road",
       "offers": [
@@ -2046,8 +2041,8 @@
       ]
     },
     "1917": {
-      "checkedAt": "2026-10-02T12:44:37.911670Z",
-      "sourceUpdatedAt": "2026-10-01T10:41:07.042269Z",
+      "checkedAt": "2026-10-03T11:44:36.753693Z",
+      "sourceUpdatedAt": "2026-10-02T20:03:56.50043Z",
       "source": "justwatch",
       "url": "https://www.justwatch.com/ca/movie/1917",
       "offers": [
@@ -2104,8 +2099,8 @@
       ]
     },
     "bestyears": {
-      "checkedAt": "2026-10-02T12:44:37.911670Z",
-      "sourceUpdatedAt": "2026-10-01T12:26:45.230532Z",
+      "checkedAt": "2026-10-03T11:44:36.753693Z",
+      "sourceUpdatedAt": "2026-10-02T12:07:41.294973Z",
       "source": "justwatch",
       "url": "https://www.justwatch.com/ca/movie/the-best-years-of-our-lives",
       "offers": [
@@ -2137,7 +2132,7 @@
       ]
     },
     "acadia": {
-      "checkedAt": "2026-10-02T12:44:37.911670Z",
+      "checkedAt": "2026-10-03T11:44:36.753693Z",
       "sourceUpdatedAt": null,
       "source": "nfb",
       "url": "https://www.nfb.ca/film/acadia_acadia/",
@@ -2150,7 +2145,7 @@
       ]
     },
     "evangeline": {
-      "checkedAt": "2026-10-02T12:44:37.911670Z",
+      "checkedAt": "2026-10-03T11:44:36.753693Z",
       "sourceUpdatedAt": null,
       "source": "nfb",
       "url": "https://www.nfb.ca/film/evangelines_quest/",
@@ -2163,7 +2158,7 @@
       ]
     },
     "edith": {
-      "checkedAt": "2026-10-02T12:44:37.911670Z",
+      "checkedAt": "2026-10-03T11:44:36.753693Z",
       "sourceUpdatedAt": null,
       "source": "nfb",
       "url": "https://www.nfb.ca/film/edith_butler_daughter_of_the_wind/",
@@ -2176,7 +2171,7 @@
       ]
     },
     "bloodquantum": {
-      "checkedAt": "2026-10-02T12:44:37.911670Z",
+      "checkedAt": "2026-10-03T11:44:36.753693Z",
       "sourceUpdatedAt": null,
       "source": "cbc",
       "url": "https://gem.cbc.ca/blood-quantum",
@@ -2189,5 +2184,5 @@
       ]
     }
   },
-  "lastRunAt": "2026-10-02T12:44:37.911670Z"
+  "lastRunAt": "2026-10-03T11:44:36.753693Z"
 }
