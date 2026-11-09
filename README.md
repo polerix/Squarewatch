@@ -70,3 +70,25 @@ scripts/                — availability refresh and public asset staging
 tests/                  — date, rotation, Bingo, and parser checks
 .github/workflows/      — daily refresh and Pages deployment
 ```
+
+## Deployment & Repository Status
+
+- **Standardized Name**: `SquareWatch`
+- **Remote Origin**: `https://github.com/polerix/Squarewatch.git`
+- **License Level**: `MIT` ([`LICENSE`](LICENSE))
+- **Security Policy**: [`SECURITY.md`](SECURITY.md)
+- **GitHub Actions**: ✅ Active
+- **Last Compliance Audit**: `2026-10-18`
+
+### GitHub CleanUp Log
+- **Unused / Archive / Cache Items Moved to `/Volumes/Clay/GitHubCleanUp/SquareWatch/`**: 10 item(s) (17 files, 0.27 MB)
+  - `_site` — Generated staging build output directory (8 file(s), 256.1 KB)
+  - `assets/AMAZON.png` — Untracked unreferenced third-party streaming logo (1 file(s), 0.6 KB)
+  - `assets/APPLE.png` — Untracked unreferenced third-party streaming logo (1 file(s), 0.8 KB)
+  - `assets/CBCGEM.png` — Untracked unreferenced third-party streaming logo (1 file(s), 0.5 KB)
+  - `assets/CRAVE.png` — Untracked unreferenced third-party streaming logo (1 file(s), 0.4 KB)
+  - `assets/PARAMOUNT.png` — Untracked unreferenced third-party streaming logo (1 file(s), 2.1 KB)
+  - `assets/PLEX.png` — Untracked unreferenced third-party streaming logo (1 file(s), 0.7 KB)
+  - `assets/TUBI.webp` — Untracked unreferenced third-party streaming logo (1 file(s), 0.3 KB)
+  - `assets/YOUTUBE.png` — Untracked unreferenced third-party streaming logo (1 file(s), 0.7 KB)
+  - `scripts/__pycache__` — Local dependency/build cache (__pycache__) (1 file(s), 12.1 KB)

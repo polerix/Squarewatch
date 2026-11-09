@@ -1,3 +1,9 @@
 __pycache__/
 _site/
 .DS_Store
+
+# Compliance hygiene
+node_modules/
+.venv/
+venv/
+.env
